@@ -1,0 +1,1 @@
+kart_tema2, kart_tema nın kısa hali.
