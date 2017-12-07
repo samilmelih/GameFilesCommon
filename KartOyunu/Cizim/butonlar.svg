@@ -1841,6 +1841,266 @@
          stdDeviation="2.5514714"
          id="feGaussianBlur13093-2-5" />
     </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter13123-8-2-9"
+       x="-0.10644173"
+       width="1.2128835"
+       y="-0.13751648"
+       height="1.275033">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="2.5514715"
+         id="feGaussianBlur13125-9-1-4" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter13123-8-7"
+       x="-0.10644173"
+       width="1.2128835"
+       y="-0.13751648"
+       height="1.275033">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="2.5514715"
+         id="feGaussianBlur13125-9-2" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter10241-91-5-4-3"
+       x="-0.14843585"
+       width="1.2968717"
+       y="-1.1883651"
+       height="3.3767302">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="3.5647624"
+         id="feGaussianBlur10243-21-1-4-6" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter10245-37-0-8-5"
+       x="-0.14843585"
+       width="1.2968717"
+       y="-0.69544995"
+       height="2.3908999">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="3.5647624"
+         id="feGaussianBlur10247-1-2-0-7" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter10249-2-6-6-6"
+       x="-0.14843585"
+       width="1.2968717"
+       y="-0.69544995"
+       height="2.3908999">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="3.5647624"
+         id="feGaussianBlur10251-87-5-5-4" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter10253-6-7-1-0"
+       x="-0.14843585"
+       width="1.2968717"
+       y="-0.69544995"
+       height="2.3908999">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="3.5647624"
+         id="feGaussianBlur10255-5-6-6-3" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter10241-2-9-8"
+       x="-0.14843585"
+       width="1.2968717"
+       y="-1.1883651"
+       height="3.3767302">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="3.5647624"
+         id="feGaussianBlur10243-2-4-9" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter10245-6-5-1"
+       x="-0.14843585"
+       width="1.2968717"
+       y="-0.69544995"
+       height="2.3908999">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="3.5647624"
+         id="feGaussianBlur10247-9-9-5" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter10249-0-7-6"
+       x="-0.14843585"
+       width="1.2968717"
+       y="-0.69544995"
+       height="2.3908999">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="3.5647624"
+         id="feGaussianBlur10251-5-7-4" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter10253-2-3-2"
+       x="-0.14843585"
+       width="1.2968717"
+       y="-0.69544995"
+       height="2.3908999">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="3.5647624"
+         id="feGaussianBlur10255-0-9-5" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter13123-9-6-1-9-2"
+       x="-0.10644173"
+       width="1.2128835"
+       y="-0.13751648"
+       height="1.275033">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="2.5514715"
+         id="feGaussianBlur13125-6-8-4-0-2" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter10241-91-9-9"
+       x="-0.14843585"
+       width="1.2968717"
+       y="-1.1883651"
+       height="3.3767302">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="3.5647624"
+         id="feGaussianBlur10243-21-2-6" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter10245-37-5-3"
+       x="-0.14843585"
+       width="1.2968717"
+       y="-0.69544995"
+       height="2.3908999">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="3.5647624"
+         id="feGaussianBlur10247-1-62-0" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter10249-2-7-4"
+       x="-0.14843585"
+       width="1.2968717"
+       y="-0.69544995"
+       height="2.3908999">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="3.5647624"
+         id="feGaussianBlur10251-87-14-7" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter10253-6-4-4"
+       x="-0.14843585"
+       width="1.2968717"
+       y="-0.69544995"
+       height="2.3908999">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="3.5647624"
+         id="feGaussianBlur10255-5-8-5" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter13123-9-6-1-1"
+       x="-0.10644173"
+       width="1.2128835"
+       y="-0.13751648"
+       height="1.275033">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="2.5514715"
+         id="feGaussianBlur13125-6-8-4-01" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter10241-1-8-7"
+       x="-0.14843585"
+       width="1.2968717"
+       y="-1.1883651"
+       height="3.3767302">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="3.5647624"
+         id="feGaussianBlur10243-7-5-5" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter10245-65-4-8"
+       x="-0.14843585"
+       width="1.2968717"
+       y="-0.69544995"
+       height="2.3908999">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="3.5647624"
+         id="feGaussianBlur10247-21-1-5" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter10249-08-8-3"
+       x="-0.14843585"
+       width="1.2968717"
+       y="-0.69544995"
+       height="2.3908999">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="3.5647624"
+         id="feGaussianBlur10251-0-0-7" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter10253-65-9-8"
+       x="-0.14843585"
+       width="1.2968717"
+       y="-0.69544995"
+       height="2.3908999">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="3.5647624"
+         id="feGaussianBlur10255-57-3-7" />
+    </filter>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -1849,9 +2109,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.49497475"
-     inkscape:cx="459.55119"
-     inkscape:cy="-210.21477"
+     inkscape:zoom="0.7"
+     inkscape:cx="547.26342"
+     inkscape:cy="-635.84344"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -3844,5 +4104,325 @@
        y="481.08966"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:1;fill:#00ff00;stroke:#000000;stroke-width:0.47057477;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect6913-0-0-0-1-3-7-2"
+       width="57.529427"
+       height="44.529427"
+       x="114.35423"
+       y="483.35928"
+       rx="0"
+       ry="3.7837031"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\ButtonGreenLight.png" />
+    <path
+       style="opacity:1;fill:#112b00;stroke:none;stroke-width:0.47057477;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 115.38993,484.58705 c -0.63609,0.67641 -1.02784,1.58601 -1.02784,2.5921 v 36.96156 c 0,2.09617 1.68756,3.78376 3.78374,3.78376 h 49.96183 c 1.39181,0 2.60003,-0.74622 3.25715,-1.85984 -0.68921,0.73289 -1.66582,1.19165 -2.7559,1.19165 h -49.96233 c -2.09618,0 -3.78324,-1.68757 -3.78324,-3.78374 v -36.96157 c 0,-0.70433 0.19404,-1.36037 0.52659,-1.92392 z"
+       id="rect6913-6-8-2-18-0-4"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\ButtonGreenLight.png" />
+    <rect
+       style="opacity:0.353;fill:#66ff00;stroke:none;stroke-width:0.40000001;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers;filter:url(#filter10253-2-3-2)"
+       id="rect8254-8-3-9-2"
+       width="57.637222"
+       height="12.302007"
+       x="114.46204"
+       y="483.35928"
+       ry="0"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\ButtonGreenLight.png" />
+    <rect
+       style="opacity:0.353;fill:#55d400;stroke:none;stroke-width:0.40000001;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers;filter:url(#filter10249-0-7-6)"
+       id="rect8254-7-6-3-4-1"
+       width="57.637222"
+       height="12.302007"
+       x="114.46203"
+       y="495.66129"
+       ry="0"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\ButtonGreenLight.png" />
+    <rect
+       style="opacity:0.353;fill:#338000;stroke:none;stroke-width:0.40000001;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers;filter:url(#filter10245-6-5-1)"
+       id="rect8254-7-5-8-8-0-9"
+       width="57.637222"
+       height="12.302007"
+       x="114.46203"
+       y="507.96329"
+       ry="0"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\ButtonGreenLight.png" />
+    <rect
+       style="opacity:0.353;fill:#225500;stroke:none;stroke-width:0.30599758;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers;filter:url(#filter10241-2-9-8)"
+       id="rect8254-7-5-9-2-7-5-9"
+       width="57.637222"
+       height="7.1993279"
+       x="114.46203"
+       y="520.26532"
+       ry="0"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\ButtonGreenLight.png" />
+    <rect
+       style="opacity:1;fill:#00ff00;stroke:#000000;stroke-width:0.47057477;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect6913-0-0-0-1-6-1-9-1"
+       width="57.529427"
+       height="44.529427"
+       x="215.21236"
+       y="479.87766"
+       rx="0"
+       ry="3.7837031"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\ButtonGreenLightPressed.png" />
+    <path
+       inkscape:connector-curvature="0"
+       style="opacity:1;fill:#112b00;stroke:none;stroke-width:0.62147027;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 218.94499,479.70049 c -0.52374,0 -1.33932,-0.0832 -1.79205,0.25006 -0.45272,0.33326 -1.01028,0.59856 -1.35204,1.19533 -0.34177,0.59678 -0.46773,0.89026 -0.65858,1.68079 -0.19084,0.79053 -0.25244,2.62965 -0.22944,3.5439 l 0.0175,0.69232 v 0.3648 l 0.0835,0.37821 0.13364,0.62879 c 0,-0.91454 0.12211,-2.06849 0.31298,-2.85902 0.19084,-0.79054 -0.0674,-0.56618 0.27437,-1.16296 0.34176,-0.59677 1.13318,-0.979 1.58591,-1.31226 0.45273,-0.33326 1.36861,-0.5421 1.89228,-0.55074 l 12.14911,-0.20045 12.81729,0.13363 12.01547,-0.13363 12.56554,0.23763 c 0.52363,0.01 1.28182,0.0896 1.73453,0.42283 0.45272,0.33326 0.57647,0.43774 0.91823,1.03452 0.34176,0.59677 0.75978,0.74089 0.95065,1.53143 0.19084,0.79053 0.33168,1.9558 0.33168,2.87034 l 0.14174,-0.63892 0.0354,-0.33181 -0.0354,-0.55623 c 0,-0.15392 0.0631,-0.1196 0.0236,-0.55624 -0.0827,-0.91454 0.0855,-2.10895 0,-2.91759 -0.0845,-0.79053 -0.19548,-1.22995 -0.53724,-1.82672 -0.34176,-0.59678 -0.99703,-1.13829 -1.44976,-1.47155 -0.45273,-0.33326 -1.47066,-0.44646 -1.9944,-0.44646 h -12.48315 -12.4832 -12.4832 z"
+       id="rect6913-0-0-0-1-92-4-9-3-4-7"
+       sodipodi:nodetypes="sssssccccsssscccssssccccssssscccs"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\ButtonGreenLightPressed.png" />
+    <path
+       style="opacity:1;fill:#112b00;stroke:none;stroke-width:0.47057477;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 215.03128,519.73351 v 1.05834 c 0,2.09617 1.68759,3.78374 3.78375,3.78374 h 49.96233 c 2.09619,0 3.78375,-1.68757 3.78375,-3.78374 v -1.05834 c 0,2.09617 -1.68756,3.78375 -3.78375,3.78375 h -49.96233 c -2.09616,0 -3.78375,-1.68758 -3.78375,-3.78375 z"
+       id="rect6913-0-0-0-1-2-8-8-9"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\ButtonGreenLightPressed.png" />
+    <rect
+       style="opacity:0.353;fill:#55d400;stroke:none;stroke-width:0.40000001;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers;filter:url(#filter10253-6-7-1-0)"
+       id="rect8254-8-30-6-4-2"
+       width="57.637222"
+       height="12.302007"
+       x="428.69293"
+       y="-64.092545"
+       ry="0"
+       transform="rotate(179.63582,349.92878,230.38168)"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\ButtonGreenLightPressed.png" />
+    <rect
+       style="opacity:0.353;fill:#338000;stroke:none;stroke-width:0.40000001;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers;filter:url(#filter10249-2-6-6-6)"
+       id="rect8254-7-6-69-7-4-7"
+       width="57.637222"
+       height="12.302007"
+       x="428.80072"
+       y="-51.790535"
+       ry="0"
+       transform="rotate(179.63582,349.92878,230.38168)"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\ButtonGreenLightPressed.png" />
+    <rect
+       style="opacity:0.353;fill:#225500;stroke:none;stroke-width:0.40000001;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers;filter:url(#filter10245-37-0-8-5)"
+       id="rect8254-7-5-8-5-4-8-5"
+       width="57.637222"
+       height="12.302007"
+       x="428.80072"
+       y="-39.488533"
+       ry="0"
+       transform="rotate(179.63582,349.92878,230.38168)"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\ButtonGreenLightPressed.png" />
+    <rect
+       style="opacity:0.353;fill:#112b00;stroke:none;stroke-width:0.30599758;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers;filter:url(#filter10241-91-5-4-3)"
+       id="rect8254-7-5-9-2-76-3-5-2"
+       width="57.637222"
+       height="7.1993279"
+       x="215.05954"
+       y="481.61304"
+       ry="0"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\ButtonGreenLightPressed.png" />
+    <rect
+       style="opacity:0.18699999;fill:#00ff00;stroke:none;stroke-width:0.40000001;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers;filter:url(#filter13123-8-7)"
+       id="rect12954-5-3-6"
+       width="57.529427"
+       height="44.529434"
+       x="115.38994"
+       y="484.58707"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\ButtonGreenLight.png" />
+    <rect
+       style="opacity:0.18699999;fill:#00ff00;stroke:none;stroke-width:0.40000001;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers;filter:url(#filter13123-8-2-9)"
+       id="rect12954-5-3-0-2"
+       width="57.529427"
+       height="44.529434"
+       x="215.21236"
+       y="479.87766"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\ButtonGreenLightPressed.png" />
+    <rect
+       style="opacity:1;fill:#00ffff;stroke:#000000;stroke-width:0.47099999;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect6913-0-0-0-1-07-4"
+       width="57.529427"
+       height="44.529427"
+       x="116.6494"
+       y="568.5144"
+       rx="0"
+       ry="3.7837031"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\butonBlueLight.png" />
+    <path
+       style="opacity:1;fill:#00222b;stroke:none;stroke-width:0.47099999;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 117.68505,569.74221 c -0.63609,0.67641 -1.02784,1.58601 -1.02784,2.59209 v 36.96157 c 0,2.09617 1.68757,3.78375 3.78375,3.78375 h 49.96183 c 1.39183,0 2.60003,-0.74621 3.25715,-1.85983 -0.6892,0.73288 -1.6658,1.19165 -2.7559,1.19165 H 120.9417 c -2.09617,0 -3.78323,-1.68757 -3.78323,-3.78375 v -36.96156 c 0,-0.70434 0.19404,-1.36037 0.52658,-1.92392 z"
+       id="rect6913-6-8-2-0-8"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\butonBlueLight.png" />
+    <rect
+       style="opacity:0.353;fill:#00ccff;stroke:none;stroke-width:0.47099999;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers;filter:url(#filter10253-65-9-8)"
+       id="rect8254-8-2-1-9"
+       width="57.637222"
+       height="12.302007"
+       x="116.43377"
+       y="568.93848"
+       ry="0"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\butonBlueLight.png" />
+    <rect
+       style="opacity:0.353;fill:#00aad4;stroke:none;stroke-width:0.47099999;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers;filter:url(#filter10249-08-8-3)"
+       id="rect8254-7-6-07-5-6"
+       width="57.637222"
+       height="12.302007"
+       x="116.54157"
+       y="581.24048"
+       ry="0"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\butonBlueLight.png" />
+    <rect
+       style="opacity:0.353;fill:#00aad4;stroke:none;stroke-width:0.47099999;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers;filter:url(#filter10245-65-4-8)"
+       id="rect8254-7-5-8-4-2-5"
+       width="57.637222"
+       height="12.302007"
+       x="116.54157"
+       y="593.54248"
+       ry="0"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\butonBlueLight.png" />
+    <rect
+       style="opacity:0.353;fill:#006680;stroke:none;stroke-width:0.47099999;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers;filter:url(#filter10241-1-8-7)"
+       id="rect8254-7-5-9-2-78-7-5"
+       width="57.637222"
+       height="7.1993279"
+       x="116.5416"
+       y="605.84448"
+       ry="0"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\butonBlueLight.png" />
+    <rect
+       style="opacity:0.18699999;fill:#00ffff;stroke:none;stroke-width:0.47099999;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers;filter:url(#filter13123-9-6-1-1)"
+       id="rect12954-5-7-7-6-9"
+       width="57.529427"
+       height="44.529434"
+       x="116.64941"
+       y="568.5144"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\butonBlueLight.png" />
+    <rect
+       style="opacity:1;fill:#00ffff;stroke:#000000;stroke-width:0.47057477;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect6913-0-0-0-1-6-0-1"
+       width="57.529427"
+       height="44.529427"
+       x="218.71584"
+       y="566.68402"
+       rx="0"
+       ry="3.7837031"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\butonBlueLightPressed.png" />
+    <path
+       inkscape:connector-curvature="0"
+       style="opacity:1;fill:#00222b;stroke:none;stroke-width:0.62147027;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 222.5602,566.49909 c -0.52374,0 -1.33933,-0.0832 -1.79206,0.25006 -0.45272,0.33326 -1.01029,0.59856 -1.35205,1.19533 -0.34176,0.59677 -0.46771,0.89026 -0.65856,1.68079 -0.19086,0.79053 -0.25245,2.62965 -0.22946,3.5439 l 0.0174,0.69231 -7.9e-4,0.3648 0.0835,0.37822 0.13364,0.62879 c 0,-0.91454 0.12211,-2.06849 0.31297,-2.85902 0.19085,-0.79054 -0.0674,-0.56618 0.27436,-1.16296 0.34176,-0.59677 1.13319,-0.979 1.58591,-1.31226 0.45273,-0.33326 1.36862,-0.5421 1.89229,-0.55074 l 12.14911,-0.20045 12.81728,0.13363 12.01549,-0.13363 12.56553,0.23762 c 0.52365,0.01 1.28182,0.0896 1.73454,0.42284 0.45272,0.33326 0.57646,0.43774 0.91822,1.03451 0.34177,0.59678 0.75979,0.7409 0.95064,1.53144 0.19086,0.79053 0.3317,1.9558 0.3317,2.87034 l 0.14174,-0.63892 0.0354,-0.33181 -0.0354,-0.55624 c 0,-0.15391 0.0631,-0.1196 0.0236,-0.55623 -0.0827,-0.91454 0.0855,-2.10896 -10e-4,-2.91759 -0.0845,-0.79053 -0.19546,-1.22995 -0.53722,-1.82672 -0.34177,-0.59678 -0.99704,-1.13829 -1.44975,-1.47155 -0.45272,-0.33326 -1.47066,-0.44646 -1.9944,-0.44646 h -12.48316 -12.4832 -12.48319 z"
+       id="rect6913-0-0-0-1-92-4-9-7-1"
+       sodipodi:nodetypes="sssssccccsssscccssssccccssssscccs"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\butonBlueLightPressed.png" />
+    <path
+       style="opacity:1;fill:#00222b;stroke:none;stroke-width:0.47057477;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 218.73842,606.31509 v 1.05833 c 0,2.09617 1.6876,3.78375 3.78376,3.78375 h 49.96233 c 2.09618,0 3.78376,-1.68758 3.78376,-3.78375 v -1.05833 c 0,2.09617 -1.68758,3.78374 -3.78376,3.78374 h -49.96233 c -2.09616,0 -3.78376,-1.68757 -3.78376,-3.78374 z"
+       id="rect6913-0-0-0-1-2-81-3"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\butonBlueLightPressed.png" />
+    <rect
+       style="opacity:0.353;fill:#00aad4;stroke:none;stroke-width:0.40000001;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers;filter:url(#filter10253-6-4-4)"
+       id="rect8254-8-30-64-7"
+       width="57.637222"
+       height="12.302007"
+       x="428.69293"
+       y="-64.092545"
+       ry="0"
+       transform="rotate(179.63582,351.598,273.78673)"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\butonBlueLightPressed.png" />
+    <rect
+       style="opacity:0.353;fill:#0088aa;stroke:none;stroke-width:0.40000001;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers;filter:url(#filter10249-2-7-4)"
+       id="rect8254-7-6-69-0-7"
+       width="57.637222"
+       height="12.302007"
+       x="428.80072"
+       y="-51.790535"
+       ry="0"
+       transform="rotate(179.63582,351.598,273.78673)"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\butonBlueLightPressed.png" />
+    <rect
+       style="opacity:0.353;fill:#006680;stroke:none;stroke-width:0.40000001;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers;filter:url(#filter10245-37-5-3)"
+       id="rect8254-7-5-8-5-0-5"
+       width="57.637222"
+       height="12.302007"
+       x="428.80072"
+       y="-39.488533"
+       ry="0"
+       transform="rotate(179.63582,351.598,273.78673)"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\butonBlueLightPressed.png" />
+    <rect
+       style="opacity:0.353;fill:#004455;stroke:none;stroke-width:0.30599758;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers;filter:url(#filter10241-91-9-9)"
+       id="rect8254-7-5-9-2-76-5-6"
+       width="57.637222"
+       height="7.1993279"
+       x="218.67386"
+       y="568.41162"
+       ry="0"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\butonBlueLightPressed.png" />
+    <rect
+       style="opacity:0.18699999;fill:#ffffff;stroke:none;stroke-width:0.40000001;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers;filter:url(#filter13123-9-6-1-9-2)"
+       id="rect12954-5-7-7-6-0-0"
+       width="57.529427"
+       height="44.529434"
+       x="218.71584"
+       y="566.68402"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\butonBlueLightPressed.png" />
   </g>
 </svg>
