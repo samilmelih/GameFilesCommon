@@ -1,0 +1,2748 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   sodipodi:docname="background.svg">
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient2520">
+      <stop
+         style="stop-color:#272727;stop-opacity:1"
+         offset="0"
+         id="stop2516" />
+      <stop
+         style="stop-color:#000000;stop-opacity:1"
+         offset="1"
+         id="stop2518" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient2320">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="0"
+         id="stop2316" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0"
+         offset="1"
+         id="stop2318" />
+    </linearGradient>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1626"
+       x="-0.072"
+       width="1.144"
+       y="-0.072"
+       height="1.144">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.25399999"
+         id="feGaussianBlur1628" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1630"
+       x="-0.072"
+       width="1.144"
+       y="-0.072"
+       height="1.144">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.25399999"
+         id="feGaussianBlur1632" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1634"
+       x="-0.072"
+       width="1.144"
+       y="-0.072"
+       height="1.144">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.25399999"
+         id="feGaussianBlur1636" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1634-1"
+       x="-0.071999997"
+       width="1.1440001"
+       y="-0.071999997"
+       height="1.1440001">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.25399999"
+         id="feGaussianBlur1636-1" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1630-8"
+       x="-0.071999997"
+       width="1.1440001"
+       y="-0.071999997"
+       height="1.1440001">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.25399999"
+         id="feGaussianBlur1632-0" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1626-9"
+       x="-0.071999997"
+       width="1.1440001"
+       y="-0.071999997"
+       height="1.1440001">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.25399999"
+         id="feGaussianBlur1628-8" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1634-1-8"
+       x="-0.071999997"
+       width="1.1440001"
+       y="-0.071999997"
+       height="1.1440001">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.25399999"
+         id="feGaussianBlur1636-1-1" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1630-8-5"
+       x="-0.071999997"
+       width="1.1440001"
+       y="-0.071999997"
+       height="1.1440001">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.25399999"
+         id="feGaussianBlur1632-0-1" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1626-9-2"
+       x="-0.071999997"
+       width="1.1440001"
+       y="-0.071999997"
+       height="1.1440001">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.25399999"
+         id="feGaussianBlur1628-8-7" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1626-9-2-1"
+       x="-0.071999997"
+       width="1.1440001"
+       y="-0.071999997"
+       height="1.1440001">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.25399999"
+         id="feGaussianBlur1628-8-7-5" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1630-8-5-0"
+       x="-0.071999997"
+       width="1.1440001"
+       y="-0.071999997"
+       height="1.1440001">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.25399999"
+         id="feGaussianBlur1632-0-1-6" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1634-1-8-5"
+       x="-0.071999997"
+       width="1.1440001"
+       y="-0.071999997"
+       height="1.1440001">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.25399999"
+         id="feGaussianBlur1636-1-1-1" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1626-9-2-2"
+       x="-0.071999997"
+       width="1.1440001"
+       y="-0.071999997"
+       height="1.1440001">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.25399999"
+         id="feGaussianBlur1628-8-7-52" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1630-8-5-6"
+       x="-0.071999997"
+       width="1.1440001"
+       y="-0.071999997"
+       height="1.1440001">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.25399999"
+         id="feGaussianBlur1632-0-1-8" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1634-1-8-1"
+       x="-0.071999997"
+       width="1.1440001"
+       y="-0.071999997"
+       height="1.1440001">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.25399999"
+         id="feGaussianBlur1636-1-1-15" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1626-9-2-4"
+       x="-0.071999997"
+       width="1.1440001"
+       y="-0.071999997"
+       height="1.1440001">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.25399999"
+         id="feGaussianBlur1628-8-7-0" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1630-8-5-8"
+       x="-0.071999997"
+       width="1.1440001"
+       y="-0.071999997"
+       height="1.1440001">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.25399999"
+         id="feGaussianBlur1632-0-1-4" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1634-1-8-52"
+       x="-0.071999997"
+       width="1.1440001"
+       y="-0.071999997"
+       height="1.1440001">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.25399999"
+         id="feGaussianBlur1636-1-1-0" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1626-9-2-3"
+       x="-0.071999997"
+       width="1.1440001"
+       y="-0.071999997"
+       height="1.1440001">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.25399999"
+         id="feGaussianBlur1628-8-7-06" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1630-8-5-88"
+       x="-0.071999997"
+       width="1.1440001"
+       y="-0.071999997"
+       height="1.1440001">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.25399999"
+         id="feGaussianBlur1632-0-1-2" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1634-1-8-9"
+       x="-0.071999997"
+       width="1.1440001"
+       y="-0.071999997"
+       height="1.1440001">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.25399999"
+         id="feGaussianBlur1636-1-1-10" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1626-9-2-37"
+       x="-0.071999997"
+       width="1.1440001"
+       y="-0.071999997"
+       height="1.1440001">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.25399999"
+         id="feGaussianBlur1628-8-7-7" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1630-8-5-3"
+       x="-0.071999997"
+       width="1.1440001"
+       y="-0.071999997"
+       height="1.1440001">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.25399999"
+         id="feGaussianBlur1632-0-1-5" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1634-1-8-7"
+       x="-0.071999997"
+       width="1.1440001"
+       y="-0.071999997"
+       height="1.1440001">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.25399999"
+         id="feGaussianBlur1636-1-1-8" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1626-9-2-6"
+       x="-0.071999997"
+       width="1.1440001"
+       y="-0.071999997"
+       height="1.1440001">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.25399999"
+         id="feGaussianBlur1628-8-7-56" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1630-8-5-4"
+       x="-0.071999997"
+       width="1.1440001"
+       y="-0.071999997"
+       height="1.1440001">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.25399999"
+         id="feGaussianBlur1632-0-1-9" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1634-1-8-13"
+       x="-0.071999997"
+       width="1.1440001"
+       y="-0.071999997"
+       height="1.1440001">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.25399999"
+         id="feGaussianBlur1636-1-1-5" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1626-9-2-5"
+       x="-0.071999997"
+       width="1.1440001"
+       y="-0.071999997"
+       height="1.1440001">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.25399999"
+         id="feGaussianBlur1628-8-7-01" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1630-8-5-33"
+       x="-0.071999997"
+       width="1.1440001"
+       y="-0.071999997"
+       height="1.1440001">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.25399999"
+         id="feGaussianBlur1632-0-1-1" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1634-1-8-6"
+       x="-0.071999997"
+       width="1.1440001"
+       y="-0.071999997"
+       height="1.1440001">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.25399999"
+         id="feGaussianBlur1636-1-1-2" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1626-9-2-8"
+       x="-0.071999997"
+       width="1.1440001"
+       y="-0.071999997"
+       height="1.1440001">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.25399999"
+         id="feGaussianBlur1628-8-7-9" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1630-8-5-67"
+       x="-0.071999997"
+       width="1.1440001"
+       y="-0.071999997"
+       height="1.1440001">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.25399999"
+         id="feGaussianBlur1632-0-1-45" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1634-1-8-8"
+       x="-0.071999997"
+       width="1.1440001"
+       y="-0.071999997"
+       height="1.1440001">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.25399999"
+         id="feGaussianBlur1636-1-1-53" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1626-9-2-12"
+       x="-0.071999997"
+       width="1.1440001"
+       y="-0.071999997"
+       height="1.1440001">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.25399999"
+         id="feGaussianBlur1628-8-7-6" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1630-8-5-36"
+       x="-0.071999997"
+       width="1.1440001"
+       y="-0.071999997"
+       height="1.1440001">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.25399999"
+         id="feGaussianBlur1632-0-1-0" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1634-1-8-4"
+       x="-0.071999997"
+       width="1.1440001"
+       y="-0.071999997"
+       height="1.1440001">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.25399999"
+         id="feGaussianBlur1636-1-1-26" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1626-9-2-7"
+       x="-0.071999997"
+       width="1.1440001"
+       y="-0.071999997"
+       height="1.1440001">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.25399999"
+         id="feGaussianBlur1628-8-7-50" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1630-8-5-44"
+       x="-0.071999997"
+       width="1.1440001"
+       y="-0.071999997"
+       height="1.1440001">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.25399999"
+         id="feGaussianBlur1632-0-1-61" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1634-1-8-18"
+       x="-0.071999997"
+       width="1.1440001"
+       y="-0.071999997"
+       height="1.1440001">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.25399999"
+         id="feGaussianBlur1636-1-1-6" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1626-9-2-379"
+       x="-0.071999997"
+       width="1.1440001"
+       y="-0.071999997"
+       height="1.1440001">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.25399999"
+         id="feGaussianBlur1628-8-7-55" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1630-8-5-48"
+       x="-0.071999997"
+       width="1.1440001"
+       y="-0.071999997"
+       height="1.1440001">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.25399999"
+         id="feGaussianBlur1632-0-1-87" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1634-1-8-84"
+       x="-0.071999997"
+       width="1.1440001"
+       y="-0.071999997"
+       height="1.1440001">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.25399999"
+         id="feGaussianBlur1636-1-1-04" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1626-9-2-16"
+       x="-0.071999997"
+       width="1.1440001"
+       y="-0.071999997"
+       height="1.1440001">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.25399999"
+         id="feGaussianBlur1628-8-7-3" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1630-8-5-84"
+       x="-0.071999997"
+       width="1.1440001"
+       y="-0.071999997"
+       height="1.1440001">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.25399999"
+         id="feGaussianBlur1632-0-1-7" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1634-1-8-0"
+       x="-0.071999997"
+       width="1.1440001"
+       y="-0.071999997"
+       height="1.1440001">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.25399999"
+         id="feGaussianBlur1636-1-1-9" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1626-9-2-56"
+       x="-0.071999997"
+       width="1.1440001"
+       y="-0.071999997"
+       height="1.1440001">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.25399999"
+         id="feGaussianBlur1628-8-7-95" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1630-8-5-7"
+       x="-0.071999997"
+       width="1.1440001"
+       y="-0.071999997"
+       height="1.1440001">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.25399999"
+         id="feGaussianBlur1632-0-1-70" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1634-1-8-85"
+       x="-0.071999997"
+       width="1.1440001"
+       y="-0.071999997"
+       height="1.1440001">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.25399999"
+         id="feGaussianBlur1636-1-1-7" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1626-9-2-13"
+       x="-0.071999997"
+       width="1.1440001"
+       y="-0.071999997"
+       height="1.1440001">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.25399999"
+         id="feGaussianBlur1628-8-7-4" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1630-8-5-37"
+       x="-0.071999997"
+       width="1.1440001"
+       y="-0.071999997"
+       height="1.1440001">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.25399999"
+         id="feGaussianBlur1632-0-1-82" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1634-1-8-51"
+       x="-0.071999997"
+       width="1.1440001"
+       y="-0.071999997"
+       height="1.1440001">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.25399999"
+         id="feGaussianBlur1636-1-1-84" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1626-9-2-65"
+       x="-0.071999997"
+       width="1.1440001"
+       y="-0.071999997"
+       height="1.1440001">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.25399999"
+         id="feGaussianBlur1628-8-7-8" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1630-8-5-89"
+       x="-0.071999997"
+       width="1.1440001"
+       y="-0.071999997"
+       height="1.1440001">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.25399999"
+         id="feGaussianBlur1632-0-1-80" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1634-1-8-09"
+       x="-0.071999997"
+       width="1.1440001"
+       y="-0.071999997"
+       height="1.1440001">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.25399999"
+         id="feGaussianBlur1636-1-1-4" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1626-9-2-17"
+       x="-0.071999997"
+       width="1.1440001"
+       y="-0.071999997"
+       height="1.1440001">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.25399999"
+         id="feGaussianBlur1628-8-7-51" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1630-8-5-9"
+       x="-0.071999997"
+       width="1.1440001"
+       y="-0.071999997"
+       height="1.1440001">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.25399999"
+         id="feGaussianBlur1632-0-1-3" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1634-1-8-07"
+       x="-0.071999997"
+       width="1.1440001"
+       y="-0.071999997"
+       height="1.1440001">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.25399999"
+         id="feGaussianBlur1636-1-1-66" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1626-9-2-49"
+       x="-0.071999997"
+       width="1.1440001"
+       y="-0.071999997"
+       height="1.1440001">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.25399999"
+         id="feGaussianBlur1628-8-7-07" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1630-8-5-679"
+       x="-0.071999997"
+       width="1.1440001"
+       y="-0.071999997"
+       height="1.1440001">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.25399999"
+         id="feGaussianBlur1632-0-1-701" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1634-1-8-76"
+       x="-0.071999997"
+       width="1.1440001"
+       y="-0.071999997"
+       height="1.1440001">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.25399999"
+         id="feGaussianBlur1636-1-1-43" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1626-9-2-48"
+       x="-0.071999997"
+       width="1.1440001"
+       y="-0.071999997"
+       height="1.1440001">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.25399999"
+         id="feGaussianBlur1628-8-7-1" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1630-8-5-1"
+       x="-0.071999997"
+       width="1.1440001"
+       y="-0.071999997"
+       height="1.1440001">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.25399999"
+         id="feGaussianBlur1632-0-1-93" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1634-1-8-2"
+       x="-0.071999997"
+       width="1.1440001"
+       y="-0.071999997"
+       height="1.1440001">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.25399999"
+         id="feGaussianBlur1636-1-1-90" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1626-9-2-43"
+       x="-0.071999997"
+       width="1.1440001"
+       y="-0.071999997"
+       height="1.1440001">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.25399999"
+         id="feGaussianBlur1628-8-7-90" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1630-8-5-45"
+       x="-0.071999997"
+       width="1.1440001"
+       y="-0.071999997"
+       height="1.1440001">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.25399999"
+         id="feGaussianBlur1632-0-1-34" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1634-1-8-3"
+       x="-0.071999997"
+       width="1.1440001"
+       y="-0.071999997"
+       height="1.1440001">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.25399999"
+         id="feGaussianBlur1636-1-1-00" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1626-9-2-66"
+       x="-0.071999997"
+       width="1.1440001"
+       y="-0.071999997"
+       height="1.1440001">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.25399999"
+         id="feGaussianBlur1628-8-7-60" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1630-8-5-2"
+       x="-0.071999997"
+       width="1.1440001"
+       y="-0.071999997"
+       height="1.1440001">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.25399999"
+         id="feGaussianBlur1632-0-1-79" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1634-1-8-81"
+       x="-0.071999997"
+       width="1.1440001"
+       y="-0.071999997"
+       height="1.1440001">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.25399999"
+         id="feGaussianBlur1636-1-1-81" />
+    </filter>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2520"
+       id="radialGradient2440-4-7"
+       cx="598.40094"
+       cy="69.24305"
+       fx="598.40094"
+       fy="69.24305"
+       r="254.00002"
+       gradientTransform="matrix(1,0,0,0.56250001,-85.92953,35.31104)"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2320"
+       id="radialGradient2322-7-5"
+       cx="172.00479"
+       cy="382.10355"
+       fx="172.00479"
+       fy="382.10355"
+       r="153.33855"
+       gradientTransform="matrix(1.65685,0,0,0.93142529,-122.71268,-5.3284615)"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2320"
+       id="radialGradient2322-7-5-7"
+       cx="172.00479"
+       cy="382.10355"
+       fx="172.00479"
+       fy="382.10355"
+       r="153.33855"
+       gradientTransform="matrix(1.65685,0,0,0.93142529,482.761,-9.8878387)"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2520"
+       id="radialGradient4094"
+       cx="1143.7097"
+       cy="-557.23981"
+       fx="1143.7097"
+       fy="-557.23981"
+       r="254.00002"
+       gradientTransform="matrix(1,0,0,0.56250001,-25.764688,383.14832)"
+       gradientUnits="userSpaceOnUse" />
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4262"
+       x="-0.0018522903"
+       width="1.0037046"
+       y="-0.003407606"
+       height="1.0068152">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.36830567"
+         id="feGaussianBlur4264" />
+    </filter>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2320"
+       id="radialGradient2322-70-7-5"
+       cx="172.00479"
+       cy="382.10355"
+       fx="172.00479"
+       fy="382.10355"
+       r="153.33855"
+       gradientTransform="matrix(1.65685,0,0,0.93142529,482.761,-9.8879987)"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.36969204"
+     inkscape:cx="596.64774"
+     inkscape:cy="899.85073"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="142"
+     inkscape:window-y="1072"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.57122284;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect815"
+       width="8.4666662"
+       height="8.4666662"
+       x="0.74480444"
+       y="11.469938"
+       ry="0.28063273" />
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.57122284;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect815-8"
+       width="8.4666662"
+       height="8.4666662"
+       x="23.179266"
+       y="10.996794"
+       ry="2.5571153" />
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.57122284;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect815-5"
+       width="8.4666662"
+       height="8.4666662"
+       x="12.046949"
+       y="11.356924"
+       ry="1.1544325" />
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.57122284;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect815-3"
+       width="8.4666662"
+       height="8.4666662"
+       x="0.80404288"
+       y="0.028878756"
+       ry="0.28063273" />
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.57122284;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect815-5-2"
+       width="8.4666662"
+       height="8.4666662"
+       x="12.38098"
+       y="-0.10119861"
+       ry="1.1544325" />
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.57122284;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect815-8-2"
+       width="8.4666662"
+       height="8.4666662"
+       x="22.982332"
+       y="0.15895611"
+       ry="2.5571153" />
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#ababab;stroke-width:0.57122284;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.72941178;paint-order:markers fill stroke;filter:url(#filter1626)"
+       id="rect815-3-6"
+       width="8.4666662"
+       height="8.4666662"
+       x="0.86908156"
+       y="22.077089"
+       ry="0.28063273"
+       inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\UI Icons\UI_Icon_Card_1_Black.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.57122284;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect815-86"
+       width="8.4666662"
+       height="8.4666662"
+       x="0.86908156"
+       y="22.077089"
+       ry="0.28063273"
+       inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\UI Icons\UI_Icon_Card_1_Black.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#ababab;stroke-width:0.57122284;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.72941178;paint-order:markers fill stroke;filter:url(#filter1630)"
+       id="rect815-5-2-5"
+       width="8.4666662"
+       height="8.4666662"
+       x="11.954969"
+       y="22.026484"
+       ry="1.1544325"
+       inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\UI Icons\UI_Icon_Card_2_Black.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.57122284;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect815-5-5"
+       width="8.4666662"
+       height="8.4666662"
+       x="11.954969"
+       y="22.026484"
+       ry="1.1544325"
+       inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\UI Icons\UI_Icon_Card_2_Black.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#ababab;stroke-width:0.57122284;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.72941178;paint-order:markers fill stroke;filter:url(#filter1634)"
+       id="rect815-8-2-3"
+       width="8.4666662"
+       height="8.4666662"
+       x="22.852255"
+       y="21.947016"
+       ry="2.5571153"
+       inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\UI Icons\UI_Icon_Card_3_Black.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.57122284;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect815-8-9"
+       width="8.4666662"
+       height="8.4666662"
+       x="22.852255"
+       y="21.947016"
+       ry="2.5571153"
+       inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\UI Icons\UI_Icon_Card_3_Black.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#ababab;stroke-width:0.57122284;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.72941178;paint-order:markers fill stroke;filter:url(#filter1626-9)"
+       id="rect815-3-6-7"
+       width="8.4666662"
+       height="8.4666662"
+       x="0.99915892"
+       y="33.133713"
+       ry="0.28063273"
+       inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\UI Icons\UI_Icon_Card_1_Maroon.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:1;fill:#800000;fill-opacity:1;stroke:none;stroke-width:0.57122284;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect815-86-5"
+       width="8.4666662"
+       height="8.4666662"
+       x="0.99915892"
+       y="33.133713"
+       ry="0.28063273"
+       inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\UI Icons\UI_Icon_Card_1_Maroon.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#ababab;stroke-width:0.57122284;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.72941178;paint-order:markers fill stroke;filter:url(#filter1630-8)"
+       id="rect815-5-2-5-1"
+       width="8.4666662"
+       height="8.4666662"
+       x="12.085047"
+       y="33.083107"
+       ry="1.1544325"
+       inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\UI Icons\UI_Icon_Card_2_Maroon.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:1;fill:#800000;fill-opacity:1;stroke:none;stroke-width:0.57122284;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect815-5-5-8"
+       width="8.4666662"
+       height="8.4666662"
+       x="12.085051"
+       y="33.083107"
+       ry="1.1544325"
+       inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\UI Icons\UI_Icon_Card_2_Maroon.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#ababab;stroke-width:0.57122284;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.72941178;paint-order:markers fill stroke;filter:url(#filter1634-1)"
+       id="rect815-8-2-3-8"
+       width="8.4666662"
+       height="8.4666662"
+       x="22.982336"
+       y="33.003639"
+       ry="2.5571153"
+       inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\UI Icons\UI_Icon_Card_3_Maroon.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:1;fill:#800000;fill-opacity:1;stroke:none;stroke-width:0.57122284;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect815-8-9-9"
+       width="8.4666662"
+       height="8.4666662"
+       x="22.982336"
+       y="33.003639"
+       ry="2.5571153"
+       inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\UI Icons\UI_Icon_Card_3_Maroon.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#ababab;stroke-width:0.57122284;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.72941178;paint-order:markers fill stroke;filter:url(#filter1626-9-2)"
+       id="rect815-3-6-7-3"
+       width="8.4666662"
+       height="8.4666662"
+       x="0.78410345"
+       y="44.757195"
+       ry="0.28063273" />
+    <rect
+       style="opacity:1;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.57122284;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect815-86-5-9"
+       width="8.4666662"
+       height="8.4666662"
+       x="0.78410345"
+       y="44.757195"
+       ry="0.28063273" />
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#ababab;stroke-width:0.57122284;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.72941178;paint-order:markers fill stroke;filter:url(#filter1630-8-5)"
+       id="rect815-5-2-5-1-6"
+       width="8.4666662"
+       height="8.4666662"
+       x="11.869993"
+       y="44.706589"
+       ry="1.1544325"
+       inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\UI Icons\UI_Icon_Card_2_Red.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:1;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.57122284;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect815-5-5-8-3"
+       width="8.4666662"
+       height="8.4666662"
+       x="11.869997"
+       y="44.706589"
+       ry="1.1544325"
+       inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\UI Icons\UI_Icon_Card_2_Red.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#ababab;stroke-width:0.57122284;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.72941178;paint-order:markers fill stroke;filter:url(#filter1634-1-8)"
+       id="rect815-8-2-3-8-7"
+       width="8.4666662"
+       height="8.4666662"
+       x="22.767282"
+       y="44.627121"
+       ry="2.5571153"
+       inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\UI Icons\UI_Icon_Card_3_Red.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:1;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.57122284;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect815-8-9-9-6"
+       width="8.4666662"
+       height="8.4666662"
+       x="22.767282"
+       y="44.627121"
+       ry="2.5571153"
+       inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\UI Icons\UI_Icon_Card_3_Red.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:1;fill:#808000;fill-opacity:1;stroke:#ababab;stroke-width:0.57122284;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.72941178;paint-order:markers fill stroke;filter:url(#filter1626-9-2-1)"
+       id="rect815-3-6-7-3-0"
+       width="8.4666662"
+       height="8.4666662"
+       x="0.60892302"
+       y="55.832314"
+       ry="0.28063273" />
+    <rect
+       style="opacity:1;fill:#808000;fill-opacity:1;stroke:none;stroke-width:0.57122284;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect815-86-5-9-2"
+       width="8.4666662"
+       height="8.4666662"
+       x="0.60892302"
+       y="55.832314"
+       ry="0.28063273" />
+    <rect
+       style="opacity:1;fill:#808000;fill-opacity:1;stroke:#ababab;stroke-width:0.57122284;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.72941178;paint-order:markers fill stroke;filter:url(#filter1630-8-5-0)"
+       id="rect815-5-2-5-1-6-4"
+       width="8.4666662"
+       height="8.4666662"
+       x="11.694815"
+       y="55.781708"
+       ry="1.1544325" />
+    <rect
+       style="opacity:1;fill:#808000;fill-opacity:1;stroke:none;stroke-width:0.57122284;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect815-5-5-8-3-6"
+       width="8.4666662"
+       height="8.4666662"
+       x="11.694818"
+       y="55.781708"
+       ry="1.1544325"
+       inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\UI Icons\UI_Icon_Card_2_Olive.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:1;fill:#808000;fill-opacity:1;stroke:#ababab;stroke-width:0.57122284;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.72941178;paint-order:markers fill stroke;filter:url(#filter1634-1-8-5)"
+       id="rect815-8-2-3-8-7-4"
+       width="8.4666662"
+       height="8.4666662"
+       x="22.592104"
+       y="55.70224"
+       ry="2.5571153"
+       inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\UI Icons\UI_Icon_Card_3_Olive.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:1;fill:#808000;fill-opacity:1;stroke:none;stroke-width:0.57122284;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect815-8-9-9-6-1"
+       width="8.4666662"
+       height="8.4666662"
+       x="22.592104"
+       y="55.70224"
+       ry="2.5571153"
+       inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\UI Icons\UI_Icon_Card_3_Olive.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:1;fill:#ffff00;fill-opacity:1;stroke:#ababab;stroke-width:0.57122284;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.72941178;paint-order:markers fill stroke;filter:url(#filter1626-9-2-2)"
+       id="rect815-3-6-7-3-4"
+       width="8.4666662"
+       height="8.4666662"
+       x="0.99915701"
+       y="67.669411"
+       ry="0.28063273"
+       inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\UI Icons\UI_Icon_Card_1_Yellow.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:1;fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:0.57122284;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect815-86-5-9-6"
+       width="8.4666662"
+       height="8.4666662"
+       x="0.99915701"
+       y="67.669411"
+       ry="0.28063273"
+       inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\UI Icons\UI_Icon_Card_1_Yellow.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:1;fill:#ffff00;fill-opacity:1;stroke:#ababab;stroke-width:0.57122284;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.72941178;paint-order:markers fill stroke;filter:url(#filter1630-8-5-6)"
+       id="rect815-5-2-5-1-6-2"
+       width="8.4666662"
+       height="8.4666662"
+       x="12.085047"
+       y="67.618797"
+       ry="1.1544325"
+       inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\UI Icons\UI_Icon_Card_2_Yellow.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:1;fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:0.57122284;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect815-5-5-8-3-3"
+       width="8.4666662"
+       height="8.4666662"
+       x="12.085051"
+       y="67.618797"
+       ry="1.1544325"
+       inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\UI Icons\UI_Icon_Card_2_Yellow.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:1;fill:#ffff00;fill-opacity:1;stroke:#ababab;stroke-width:0.57122284;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.72941178;paint-order:markers fill stroke;filter:url(#filter1634-1-8-1)"
+       id="rect815-8-2-3-8-7-3"
+       width="8.4666662"
+       height="8.4666662"
+       x="22.982336"
+       y="67.53933"
+       ry="2.5571153"
+       inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\UI Icons\UI_Icon_Card_3_Yellow.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:1;fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:0.57122284;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect815-8-9-9-6-0"
+       width="8.4666662"
+       height="8.4666662"
+       x="22.982336"
+       y="67.53933"
+       ry="2.5571153"
+       inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\UI Icons\UI_Icon_Card_3_Yellow.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:1;fill:#008000;fill-opacity:1;stroke:#ababab;stroke-width:0.57122284;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.72941178;paint-order:markers fill stroke;filter:url(#filter1626-9-2-4)"
+       id="rect815-3-6-7-3-9"
+       width="8.4666662"
+       height="8.4666662"
+       x="0.86907965"
+       y="79.5065"
+       ry="0.28063273"
+       inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\UI Icons\UI_Icon_Card_1_Green.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:1;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.57122284;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect815-86-5-9-9"
+       width="8.4666662"
+       height="8.4666662"
+       x="0.86907965"
+       y="79.5065"
+       ry="0.28063273"
+       inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\UI Icons\UI_Icon_Card_1_Green.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:1;fill:#008000;fill-opacity:1;stroke:#ababab;stroke-width:0.57122284;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.72941178;paint-order:markers fill stroke;filter:url(#filter1630-8-5-8)"
+       id="rect815-5-2-5-1-6-3"
+       width="8.4666662"
+       height="8.4666662"
+       x="11.954969"
+       y="79.455887"
+       ry="1.1544325"
+       inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\UI Icons\UI_Icon_Card_2_Green.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:1;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.57122284;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect815-5-5-8-3-5"
+       width="8.4666662"
+       height="8.4666662"
+       x="11.954973"
+       y="79.455887"
+       ry="1.1544325"
+       inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\UI Icons\UI_Icon_Card_2_Green.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:1;fill:#008000;fill-opacity:1;stroke:#ababab;stroke-width:0.57122284;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.72941178;paint-order:markers fill stroke;filter:url(#filter1634-1-8-52)"
+       id="rect815-8-2-3-8-7-0"
+       width="8.4666662"
+       height="8.4666662"
+       x="22.852259"
+       y="79.376419"
+       ry="2.5571153"
+       inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\UI Icons\UI_Icon_Card_3_Green.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:1;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.57122284;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect815-8-9-9-6-8"
+       width="8.4666662"
+       height="8.4666662"
+       x="22.852259"
+       y="79.376419"
+       ry="2.5571153"
+       inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\UI Icons\UI_Icon_Card_3_Green.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:1;fill:#00ff00;fill-opacity:1;stroke:#ababab;stroke-width:0.57122284;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.72941178;paint-order:markers fill stroke;filter:url(#filter1626-9-2-3)"
+       id="rect815-3-6-7-3-6"
+       width="8.4666662"
+       height="8.4666662"
+       x="0.99915701"
+       y="91.60376"
+       ry="0.28063273" />
+    <rect
+       style="opacity:1;fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:0.57122284;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect815-86-5-9-25"
+       width="8.4666662"
+       height="8.4666662"
+       x="0.99915701"
+       y="91.60376"
+       ry="0.28063273" />
+    <rect
+       style="opacity:1;fill:#00ff00;fill-opacity:1;stroke:#ababab;stroke-width:0.57122284;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.72941178;paint-order:markers fill stroke;filter:url(#filter1630-8-5-88)"
+       id="rect815-5-2-5-1-6-48"
+       width="8.4666662"
+       height="8.4666662"
+       x="12.085043"
+       y="91.553146"
+       ry="1.1544325"
+       inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\UI Icons\UI_Icon_Card_2_Lime.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:1;fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:0.57122284;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect815-5-5-8-3-0"
+       width="8.4666662"
+       height="8.4666662"
+       x="12.085047"
+       y="91.553146"
+       ry="1.1544325"
+       inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\UI Icons\UI_Icon_Card_2_Lime.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:1;fill:#00ff00;fill-opacity:1;stroke:#ababab;stroke-width:0.57122284;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.72941178;paint-order:markers fill stroke;filter:url(#filter1634-1-8-9)"
+       id="rect815-8-2-3-8-7-02"
+       width="8.4666662"
+       height="8.4666662"
+       x="22.982332"
+       y="91.473679"
+       ry="2.5571153"
+       inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\UI Icons\UI_Icon_Card_3_Lime.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:1;fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:0.57122284;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect815-8-9-9-6-84"
+       width="8.4666662"
+       height="8.4666662"
+       x="22.982332"
+       y="91.473679"
+       ry="2.5571153"
+       inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\UI Icons\UI_Icon_Card_3_Lime.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:1;fill:#008080;fill-opacity:1;stroke:#ababab;stroke-width:0.57122284;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.72941178;paint-order:markers fill stroke;filter:url(#filter1626-9-2-37)"
+       id="rect815-3-6-7-3-1"
+       width="8.4666662"
+       height="8.4666662"
+       x="0.73900038"
+       y="103.05061"
+       ry="0.28063273"
+       inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\UI Icons\UI_Icon_Card_1_Teal.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:1;fill:#008080;fill-opacity:1;stroke:none;stroke-width:0.57122284;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect815-86-5-9-28"
+       width="8.4666662"
+       height="8.4666662"
+       x="0.73900038"
+       y="103.05061"
+       ry="0.28063273"
+       inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\UI Icons\UI_Icon_Card_1_Teal.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:1;fill:#008080;fill-opacity:1;stroke:#ababab;stroke-width:0.57122284;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.72941178;paint-order:markers fill stroke;filter:url(#filter1630-8-5-3)"
+       id="rect815-5-2-5-1-6-37"
+       width="8.4666662"
+       height="8.4666662"
+       x="11.824892"
+       y="103"
+       ry="1.1544325"
+       inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\UI Icons\UI_Icon_Card_2_Teal.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:1;fill:#008080;fill-opacity:1;stroke:none;stroke-width:0.57122284;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect815-5-5-8-3-33"
+       width="8.4666662"
+       height="8.4666662"
+       x="11.824896"
+       y="103"
+       ry="1.1544325"
+       inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\UI Icons\UI_Icon_Card_2_Teal.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:1;fill:#008080;fill-opacity:1;stroke:#ababab;stroke-width:0.57122284;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.72941178;paint-order:markers fill stroke;filter:url(#filter1634-1-8-7)"
+       id="rect815-8-2-3-8-7-5"
+       width="8.4666662"
+       height="8.4666662"
+       x="22.722181"
+       y="102.92053"
+       ry="2.5571153"
+       inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\UI Icons\UI_Icon_Card_3_Teal.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:1;fill:#008080;fill-opacity:1;stroke:none;stroke-width:0.57122284;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect815-8-9-9-6-4"
+       width="8.4666662"
+       height="8.4666662"
+       x="22.722181"
+       y="102.92053"
+       ry="2.5571153"
+       inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\UI Icons\UI_Icon_Card_3_Teal.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:1;fill:#00ffff;fill-opacity:1;stroke:#ababab;stroke-width:0.57122284;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.72941178;paint-order:markers fill stroke;filter:url(#filter1626-9-2-6)"
+       id="rect815-3-6-7-3-69"
+       width="8.4666662"
+       height="8.4666662"
+       x="0.60892302"
+       y="115.14786"
+       ry="0.28063273"
+       inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\UI Icons\UI_Icon_Card_1_Aqua.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:1;fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:0.57122284;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect815-86-5-9-93"
+       width="8.4666662"
+       height="8.4666662"
+       x="0.60892302"
+       y="115.14786"
+       ry="0.28063273"
+       inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\UI Icons\UI_Icon_Card_1_Aqua.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:1;fill:#00ffff;fill-opacity:1;stroke:#ababab;stroke-width:0.57122284;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.72941178;paint-order:markers fill stroke;filter:url(#filter1630-8-5-4)"
+       id="rect815-5-2-5-1-6-6"
+       width="8.4666662"
+       height="8.4666662"
+       x="11.694811"
+       y="115.09726"
+       ry="1.1544325"
+       inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\UI Icons\UI_Icon_Card_2_Aqua.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:1;fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:0.57122284;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect815-5-5-8-3-8"
+       width="8.4666662"
+       height="8.4666662"
+       x="11.694815"
+       y="115.09726"
+       ry="1.1544325"
+       inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\UI Icons\UI_Icon_Card_2_Aqua.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:1;fill:#00ffff;fill-opacity:1;stroke:#ababab;stroke-width:0.57122284;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.72941178;paint-order:markers fill stroke;filter:url(#filter1634-1-8-13)"
+       id="rect815-8-2-3-8-7-30"
+       width="8.4666662"
+       height="8.4666662"
+       x="22.5921"
+       y="115.01779"
+       ry="2.5571153"
+       inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\UI Icons\UI_Icon_Card_3_Aqua.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:1;fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:0.57122284;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect815-8-9-9-6-12"
+       width="8.4666662"
+       height="8.4666662"
+       x="22.5921"
+       y="115.01779"
+       ry="2.5571153"
+       inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\UI Icons\UI_Icon_Card_3_Aqua.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:1;fill:#000080;fill-opacity:1;stroke:#ababab;stroke-width:0.57122284;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.72941178;paint-order:markers fill stroke;filter:url(#filter1626-9-2-5)"
+       id="rect815-3-6-7-3-3"
+       width="8.4666662"
+       height="8.4666662"
+       x="0.86907965"
+       y="127.3752"
+       ry="0.28063273"
+       inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\UI Icons\UI_Icon_Card_1_Navy.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:1;fill:#000080;fill-opacity:1;stroke:none;stroke-width:0.57122284;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect815-86-5-9-1"
+       width="8.4666662"
+       height="8.4666662"
+       x="0.86907965"
+       y="127.3752"
+       ry="0.28063273"
+       inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\UI Icons\UI_Icon_Card_1_Navy.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:1;fill:#000080;fill-opacity:1;stroke:#ababab;stroke-width:0.57122284;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.72941178;paint-order:markers fill stroke;filter:url(#filter1630-8-5-33)"
+       id="rect815-5-2-5-1-6-0"
+       width="8.4666662"
+       height="8.4666662"
+       x="11.954966"
+       y="127.32458"
+       ry="1.1544325"
+       inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\UI Icons\UI_Icon_Card_2_Navy.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:1;fill:#000080;fill-opacity:1;stroke:none;stroke-width:0.57122284;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect815-5-5-8-3-1"
+       width="8.4666662"
+       height="8.4666662"
+       x="11.954969"
+       y="127.32458"
+       ry="1.1544325"
+       inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\UI Icons\UI_Icon_Card_2_Navy.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:1;fill:#000080;fill-opacity:1;stroke:#ababab;stroke-width:0.57122284;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.72941178;paint-order:markers fill stroke;filter:url(#filter1634-1-8-6)"
+       id="rect815-8-2-3-8-7-05"
+       width="8.4666662"
+       height="8.4666662"
+       x="22.852255"
+       y="127.24512"
+       ry="2.5571153"
+       inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\UI Icons\UI_Icon_Card_3_Navy.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:1;fill:#000080;fill-opacity:1;stroke:none;stroke-width:0.57122284;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect815-8-9-9-6-5"
+       width="8.4666662"
+       height="8.4666662"
+       x="22.852255"
+       y="127.24512"
+       ry="2.5571153"
+       inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\UI Icons\UI_Icon_Card_3_Navy.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:1;fill:#0000ff;fill-opacity:1;stroke:#ababab;stroke-width:0.57122284;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.72941178;paint-order:markers fill stroke;filter:url(#filter1626-9-2-8)"
+       id="rect815-3-6-7-3-2"
+       width="8.4666662"
+       height="8.4666662"
+       x="0.73900038"
+       y="140.2529"
+       ry="0.28063273"
+       inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\UI Icons\UI_Icon_Card_1_Blue.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:1;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.57122284;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect815-86-5-9-7"
+       width="8.4666662"
+       height="8.4666662"
+       x="0.73900038"
+       y="140.2529"
+       ry="0.28063273"
+       inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\UI Icons\UI_Icon_Card_1_Blue.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:1;fill:#0000ff;fill-opacity:1;stroke:#ababab;stroke-width:0.57122284;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.72941178;paint-order:markers fill stroke;filter:url(#filter1630-8-5-67)"
+       id="rect815-5-2-5-1-6-38"
+       width="8.4666662"
+       height="8.4666662"
+       x="11.824892"
+       y="140.2023"
+       ry="1.1544325"
+       inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\UI Icons\UI_Icon_Card_2_Blue.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:1;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.57122284;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect815-5-5-8-3-86"
+       width="8.4666662"
+       height="8.4666662"
+       x="11.824896"
+       y="140.2023"
+       ry="1.1544325"
+       inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\UI Icons\UI_Icon_Card_2_Blue.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:1;fill:#0000ff;fill-opacity:1;stroke:#ababab;stroke-width:0.57122284;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.72941178;paint-order:markers fill stroke;filter:url(#filter1634-1-8-8)"
+       id="rect815-8-2-3-8-7-8"
+       width="8.4666662"
+       height="8.4666662"
+       x="22.722181"
+       y="140.12283"
+       ry="2.5571153"
+       inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\UI Icons\UI_Icon_Card_3_Blue.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:1;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.57122284;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect815-8-9-9-6-6"
+       width="8.4666662"
+       height="8.4666662"
+       x="22.722181"
+       y="140.12283"
+       ry="2.5571153"
+       inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\UI Icons\UI_Icon_Card_3_Blue.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:1;fill:#800080;fill-opacity:1;stroke:#ababab;stroke-width:0.57122284;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.72941178;paint-order:markers fill stroke;filter:url(#filter1626-9-2-12)"
+       id="rect815-3-6-7-3-7"
+       width="8.4666662"
+       height="8.4666662"
+       x="0.99915701"
+       y="151.82983"
+       ry="0.28063273"
+       inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\UI Icons\UI_Icon_Card_1_Purple.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:1;fill:#800080;fill-opacity:1;stroke:none;stroke-width:0.57122284;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect815-86-5-9-5"
+       width="8.4666662"
+       height="8.4666662"
+       x="0.99915701"
+       y="151.82983"
+       ry="0.28063273"
+       inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\UI Icons\UI_Icon_Card_1_Purple.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:1;fill:#800080;fill-opacity:1;stroke:#ababab;stroke-width:0.57122284;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.72941178;paint-order:markers fill stroke;filter:url(#filter1630-8-5-36)"
+       id="rect815-5-2-5-1-6-00"
+       width="8.4666662"
+       height="8.4666662"
+       x="12.085047"
+       y="151.77924"
+       ry="1.1544325"
+       inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\UI Icons\UI_Icon_Card_2_Purple.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:1;fill:#800080;fill-opacity:1;stroke:none;stroke-width:0.57122284;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect815-5-5-8-3-2"
+       width="8.4666662"
+       height="8.4666662"
+       x="12.085051"
+       y="151.77924"
+       ry="1.1544325"
+       inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\UI Icons\UI_Icon_Card_2_Purple.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:1;fill:#800080;fill-opacity:1;stroke:#ababab;stroke-width:0.57122284;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.72941178;paint-order:markers fill stroke;filter:url(#filter1634-1-8-4)"
+       id="rect815-8-2-3-8-7-49"
+       width="8.4666662"
+       height="8.4666662"
+       x="22.982336"
+       y="151.69977"
+       ry="2.5571153"
+       inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\UI Icons\UI_Icon_Card_3_Purple.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:1;fill:#800080;fill-opacity:1;stroke:none;stroke-width:0.57122284;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect815-8-9-9-6-63"
+       width="8.4666662"
+       height="8.4666662"
+       x="22.982336"
+       y="151.69977"
+       ry="2.5571153"
+       inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\UI Icons\UI_Icon_Card_3_Purple.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:1;fill:#ff00ff;fill-opacity:1;stroke:#ababab;stroke-width:0.57122284;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.72941178;paint-order:markers fill stroke;filter:url(#filter1626-9-2-7)"
+       id="rect815-3-6-7-3-20"
+       width="8.4666662"
+       height="8.4666662"
+       x="0.86907774"
+       y="163.92709"
+       ry="0.28063273"
+       inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\UI Icons\UI_Icon_Card_1_Fuchsia.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:1;fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:0.57122284;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect815-86-5-9-95"
+       width="8.4666662"
+       height="8.4666662"
+       x="0.86907774"
+       y="163.92709"
+       ry="0.28063273"
+       inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\UI Icons\UI_Icon_Card_1_Fuchsia.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:1;fill:#ff00ff;fill-opacity:1;stroke:#ababab;stroke-width:0.57122284;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.72941178;paint-order:markers fill stroke;filter:url(#filter1630-8-5-44)"
+       id="rect815-5-2-5-1-6-7"
+       width="8.4666662"
+       height="8.4666662"
+       x="11.954969"
+       y="163.87648"
+       ry="1.1544325"
+       inkscape:export-filename="C:\Users\Casper\UI_Icon_Card_2_Fuchsia.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:1;fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:0.57122284;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect815-5-5-8-3-10"
+       width="8.4666662"
+       height="8.4666662"
+       x="11.954973"
+       y="163.87648"
+       ry="1.1544325"
+       inkscape:export-filename="C:\Users\Casper\UI_Icon_Card_2_Fuchsia.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:1;fill:#ff00ff;fill-opacity:1;stroke:#ababab;stroke-width:0.57122284;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.72941178;paint-order:markers fill stroke;filter:url(#filter1634-1-8-18)"
+       id="rect815-8-2-3-8-7-7"
+       width="8.4666662"
+       height="8.4666662"
+       x="22.852259"
+       y="163.79701"
+       ry="2.5571153"
+       inkscape:export-filename="C:\Users\Casper\UI_Icon_Card_3_Fuchsia.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:1;fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:0.57122284;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect815-8-9-9-6-9"
+       width="8.4666662"
+       height="8.4666662"
+       x="22.852259"
+       y="163.79701"
+       ry="2.5571153"
+       inkscape:export-filename="C:\Users\Casper\UI_Icon_Card_3_Fuchsia.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:1;fill:#1a1a1a;fill-opacity:1;stroke:#ababab;stroke-width:0.57122284;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.72941178;paint-order:markers fill stroke;filter:url(#filter1626-9-2-379)"
+       id="rect815-3-6-7-3-5"
+       width="8.4666662"
+       height="8.4666662"
+       x="35.67226"
+       y="21.894388"
+       ry="0.28063273"
+       inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\UI Icons\UI_Icon_Card_1_Black_2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:1;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.57122284;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect815-86-5-9-16"
+       width="8.4666662"
+       height="8.4666662"
+       x="35.67226"
+       y="21.894388"
+       ry="0.28063273"
+       inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\UI Icons\UI_Icon_Card_1_Black_2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:1;fill:#1a1a1a;fill-opacity:1;stroke:#ababab;stroke-width:0.57122284;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.72941178;paint-order:markers fill stroke;filter:url(#filter1630-8-5-48)"
+       id="rect815-5-2-5-1-6-8"
+       width="8.4666662"
+       height="8.4666662"
+       x="46.758152"
+       y="21.843782"
+       ry="1.1544325"
+       inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\UI Icons\UI_Icon_Card_2_Black_2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:1;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.57122284;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect815-5-5-8-3-61"
+       width="8.4666662"
+       height="8.4666662"
+       x="46.758152"
+       y="21.843782"
+       ry="1.1544325"
+       inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\UI Icons\UI_Icon_Card_2_Black_2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:1;fill:#1a1a1a;fill-opacity:1;stroke:#ababab;stroke-width:0.57122284;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.72941178;paint-order:markers fill stroke;filter:url(#filter1634-1-8-84)"
+       id="rect815-8-2-3-8-7-84"
+       width="8.4666662"
+       height="8.4666662"
+       x="57.655437"
+       y="21.764315"
+       ry="2.5571153"
+       inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\UI Icons\UI_Icon_Card_3_Black_2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:1;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.57122284;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect815-8-9-9-6-2"
+       width="8.4666662"
+       height="8.4666662"
+       x="57.655437"
+       y="21.764315"
+       ry="2.5571153"
+       inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\UI Icons\UI_Icon_Card_3_Black_2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:1;fill:#333333;fill-opacity:1;stroke:#ababab;stroke-width:0.57122284;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.72941178;paint-order:markers fill stroke;filter:url(#filter1626-9-2-16)"
+       id="rect815-3-6-7-3-46"
+       width="8.4666662"
+       height="8.4666662"
+       x="35.731441"
+       y="32.991035"
+       ry="0.28063273"
+       inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\UI Icons\UI_Icon_Card_1_Black_3.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:1;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.57122284;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect815-86-5-9-0"
+       width="8.4666662"
+       height="8.4666662"
+       x="35.731441"
+       y="32.991035"
+       ry="0.28063273"
+       inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\UI Icons\UI_Icon_Card_1_Black_3.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:1;fill:#333333;fill-opacity:1;stroke:#ababab;stroke-width:0.57122284;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.72941178;paint-order:markers fill stroke;filter:url(#filter1630-8-5-84)"
+       id="rect815-5-2-5-1-6-09"
+       width="8.4666662"
+       height="8.4666662"
+       x="46.817333"
+       y="32.94043"
+       ry="1.1544325"
+       inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\UI Icons\UI_Icon_Card_2_Black_3.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:1;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.57122284;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect815-5-5-8-3-04"
+       width="8.4666662"
+       height="8.4666662"
+       x="46.817333"
+       y="32.94043"
+       ry="1.1544325"
+       inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\UI Icons\UI_Icon_Card_2_Black_3.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:1;fill:#333333;fill-opacity:1;stroke:#ababab;stroke-width:0.57122284;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.72941178;paint-order:markers fill stroke;filter:url(#filter1634-1-8-0)"
+       id="rect815-8-2-3-8-7-79"
+       width="8.4666662"
+       height="8.4666662"
+       x="57.714619"
+       y="32.860962"
+       ry="2.5571153"
+       inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\UI Icons\UI_Icon_Card_3_Black_3.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:1;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.57122284;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect815-8-9-9-6-3"
+       width="8.4666662"
+       height="8.4666662"
+       x="57.714619"
+       y="32.860962"
+       ry="2.5571153"
+       inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\UI Icons\UI_Icon_Card_3_Black_3.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:#ababab;stroke-width:0.57122284;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.72941178;paint-order:markers fill stroke;filter:url(#filter1626-9-2-56)"
+       id="rect815-3-6-7-3-72"
+       width="8.4666662"
+       height="8.4666662"
+       x="36.099354"
+       y="44.488411"
+       ry="0.28063273"
+       inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\UI Icons\UI_Icon_Card_1_Black_4.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.57122284;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect815-86-5-9-99"
+       width="8.4666662"
+       height="8.4666662"
+       x="36.099354"
+       y="44.488411"
+       ry="0.28063273"
+       inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\UI Icons\UI_Icon_Card_1_Black_4.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:#ababab;stroke-width:0.57122284;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.72941178;paint-order:markers fill stroke;filter:url(#filter1630-8-5-7)"
+       id="rect815-5-2-5-1-6-64"
+       width="8.4666662"
+       height="8.4666662"
+       x="47.185246"
+       y="44.437805"
+       ry="1.1544325"
+       inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\UI Icons\UI_Icon_Card_2_Black_4.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.57122284;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect815-5-5-8-3-29"
+       width="8.4666662"
+       height="8.4666662"
+       x="47.185246"
+       y="44.437805"
+       ry="1.1544325"
+       inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\UI Icons\UI_Icon_Card_2_Black_4.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:#ababab;stroke-width:0.57122284;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.72941178;paint-order:markers fill stroke;filter:url(#filter1634-1-8-85)"
+       id="rect815-8-2-3-8-7-2"
+       width="8.4666662"
+       height="8.4666662"
+       x="58.082531"
+       y="44.358337"
+       ry="2.5571153"
+       inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\UI Icons\UI_Icon_Card_3_Black_4.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.57122284;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect815-8-9-9-6-30"
+       width="8.4666662"
+       height="8.4666662"
+       x="58.082531"
+       y="44.358337"
+       ry="2.5571153"
+       inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\UI Icons\UI_Icon_Card_3_Black_4.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:1;fill:#666666;fill-opacity:1;stroke:#ababab;stroke-width:0.57122284;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.72941178;paint-order:markers fill stroke;filter:url(#filter1626-9-2-13)"
+       id="rect815-3-6-7-3-54"
+       width="8.4666662"
+       height="8.4666662"
+       x="35.823421"
+       y="56.077774"
+       ry="0.28063273"
+       inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\UI Icons\UI_Icon_Card_1_Black_5.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:1;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.57122284;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect815-86-5-9-72"
+       width="8.4666662"
+       height="8.4666662"
+       x="35.823421"
+       y="56.077774"
+       ry="0.28063273"
+       inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\UI Icons\UI_Icon_Card_1_Black_5.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:1;fill:#666666;fill-opacity:1;stroke:#ababab;stroke-width:0.57122284;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.72941178;paint-order:markers fill stroke;filter:url(#filter1630-8-5-37)"
+       id="rect815-5-2-5-1-6-02"
+       width="8.4666662"
+       height="8.4666662"
+       x="46.909313"
+       y="56.027153"
+       ry="1.1544325"
+       inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\UI Icons\UI_Icon_Card_2_Black_5.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:1;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.57122284;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect815-5-5-8-3-05"
+       width="8.4666662"
+       height="8.4666662"
+       x="46.909321"
+       y="56.027153"
+       ry="1.1544325"
+       inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\UI Icons\UI_Icon_Card_2_Black_5.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:1;fill:#666666;fill-opacity:1;stroke:#ababab;stroke-width:0.57122284;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.72941178;paint-order:markers fill stroke;filter:url(#filter1634-1-8-51)"
+       id="rect815-8-2-3-8-7-21"
+       width="8.4666662"
+       height="8.4666662"
+       x="57.806606"
+       y="55.947693"
+       ry="2.5571153"
+       inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\UI Icons\UI_Icon_Card_3_Black_5.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:1;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.57122284;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect815-8-9-9-6-80"
+       width="8.4666662"
+       height="8.4666662"
+       x="57.806606"
+       y="55.947693"
+       ry="2.5571153"
+       inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\UI Icons\UI_Icon_Card_3_Black_5.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:1;fill:#808080;fill-opacity:1;stroke:#ababab;stroke-width:0.57122284;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.72941178;paint-order:markers fill stroke;filter:url(#filter1626-9-2-65)"
+       id="rect815-3-6-7-3-99"
+       width="8.4666662"
+       height="8.4666662"
+       x="35.823421"
+       y="67.575127"
+       ry="0.28063273"
+       inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\UI Icons\UI_Icon_Card_1_Black_6.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:1;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.57122284;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect815-86-5-9-91"
+       width="8.4666662"
+       height="8.4666662"
+       x="35.823421"
+       y="67.575127"
+       ry="0.28063273"
+       inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\UI Icons\UI_Icon_Card_1_Black_6.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:1;fill:#808080;fill-opacity:1;stroke:#ababab;stroke-width:0.57122284;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.72941178;paint-order:markers fill stroke;filter:url(#filter1630-8-5-89)"
+       id="rect815-5-2-5-1-6-1"
+       width="8.4666662"
+       height="8.4666662"
+       x="46.909313"
+       y="67.524529"
+       ry="1.1544325"
+       inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\UI Icons\UI_Icon_Card_2_Black_6.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:1;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.57122284;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect815-5-5-8-3-7"
+       width="8.4666662"
+       height="8.4666662"
+       x="46.909321"
+       y="67.524529"
+       ry="1.1544325"
+       inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\UI Icons\UI_Icon_Card_2_Black_6.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:1;fill:#808080;fill-opacity:1;stroke:#ababab;stroke-width:0.57122284;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.72941178;paint-order:markers fill stroke;filter:url(#filter1634-1-8-09)"
+       id="rect815-8-2-3-8-7-1"
+       width="8.4666662"
+       height="8.4666662"
+       x="57.806606"
+       y="67.445068"
+       ry="2.5571153"
+       inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\UI Icons\UI_Icon_Card_3_Black_6.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:1;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.57122284;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect815-8-9-9-6-91"
+       width="8.4666662"
+       height="8.4666662"
+       x="57.806606"
+       y="67.445068"
+       ry="2.5571153"
+       inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\UI Icons\UI_Icon_Card_3_Black_6.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:1;fill:#999999;fill-opacity:1;stroke:#ababab;stroke-width:0.57122284;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.72941178;paint-order:markers fill stroke;filter:url(#filter1626-9-2-17)"
+       id="rect815-3-6-7-3-61"
+       width="8.4666662"
+       height="8.4666662"
+       x="35.86005"
+       y="78.85611"
+       ry="0.28063273"
+       inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\UI Icons\UI_Icon_Card_1_Black_7.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:1;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.57122284;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect815-86-5-9-09"
+       width="8.4666662"
+       height="8.4666662"
+       x="35.86005"
+       y="78.85611"
+       ry="0.28063273"
+       inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\UI Icons\UI_Icon_Card_1_Black_7.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:1;fill:#999999;fill-opacity:1;stroke:#ababab;stroke-width:0.57122284;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.72941178;paint-order:markers fill stroke;filter:url(#filter1630-8-5-9)"
+       id="rect815-5-2-5-1-6-49"
+       width="8.4666662"
+       height="8.4666662"
+       x="46.945934"
+       y="78.805511"
+       ry="1.1544325"
+       inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\UI Icons\UI_Icon_Card_2_Black_7.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:1;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.57122284;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect815-5-5-8-3-60"
+       width="8.4666662"
+       height="8.4666662"
+       x="46.945942"
+       y="78.805511"
+       ry="1.1544325"
+       inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\UI Icons\UI_Icon_Card_2_Black_7.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:1;fill:#999999;fill-opacity:1;stroke:#ababab;stroke-width:0.57122284;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.72941178;paint-order:markers fill stroke;filter:url(#filter1634-1-8-07)"
+       id="rect815-8-2-3-8-7-6"
+       width="8.4666662"
+       height="8.4666662"
+       x="57.843227"
+       y="78.726044"
+       ry="2.5571153"
+       inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\UI Icons\UI_Icon_Card_3_Black_7.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:1;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.57122284;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect815-8-9-9-6-48"
+       width="8.4666662"
+       height="8.4666662"
+       x="57.843227"
+       y="78.726044"
+       ry="2.5571153"
+       inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\UI Icons\UI_Icon_Card_3_Black_7.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:1;fill:#b3b3b3;fill-opacity:1;stroke:#ababab;stroke-width:0.57122284;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.72941178;paint-order:markers fill stroke;filter:url(#filter1626-9-2-49)"
+       id="rect815-3-6-7-3-64"
+       width="8.4666662"
+       height="8.4666662"
+       x="35.469814"
+       y="91.603745"
+       ry="0.28063273"
+       inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\UI Icons\UI_Icon_Card_1_Black_8.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:1;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:0.57122284;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect815-86-5-9-58"
+       width="8.4666662"
+       height="8.4666662"
+       x="35.469814"
+       y="91.603745"
+       ry="0.28063273"
+       inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\UI Icons\UI_Icon_Card_1_Black_8.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:1;fill:#b3b3b3;fill-opacity:1;stroke:#ababab;stroke-width:0.57122284;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.72941178;paint-order:markers fill stroke;filter:url(#filter1630-8-5-679)"
+       id="rect815-5-2-5-1-6-89"
+       width="8.4666662"
+       height="8.4666662"
+       x="46.555706"
+       y="91.553131"
+       ry="1.1544325"
+       inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\UI Icons\UI_Icon_Card_2_Black_8.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:1;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:0.57122284;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect815-5-5-8-3-08"
+       width="8.4666662"
+       height="8.4666662"
+       x="46.555706"
+       y="91.553131"
+       ry="1.1544325"
+       inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\UI Icons\UI_Icon_Card_2_Black_8.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:1;fill:#b3b3b3;fill-opacity:1;stroke:#ababab;stroke-width:0.57122284;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.72941178;paint-order:markers fill stroke;filter:url(#filter1634-1-8-76)"
+       id="rect815-8-2-3-8-7-45"
+       width="8.4666662"
+       height="8.4666662"
+       x="57.452991"
+       y="91.473663"
+       ry="2.5571153"
+       inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\UI Icons\UI_Icon_Card_3_Black_8.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:1;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:0.57122284;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect815-8-9-9-6-7"
+       width="8.4666662"
+       height="8.4666662"
+       x="57.452991"
+       y="91.473663"
+       ry="2.5571153"
+       inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\UI Icons\UI_Icon_Card_3_Black_8.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:1;fill:#cccccc;fill-opacity:1;stroke:#ababab;stroke-width:0.57122284;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.72941178;paint-order:markers fill stroke;filter:url(#filter1626-9-2-48)"
+       id="rect815-3-6-7-3-98"
+       width="8.4666662"
+       height="8.4666662"
+       x="35.20966"
+       y="102.79045"
+       ry="0.28063273"
+       inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\UI Icons\UI_Icon_Card_1_Black_9.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:1;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0.57122284;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect815-86-5-9-05"
+       width="8.4666662"
+       height="8.4666662"
+       x="35.20966"
+       y="102.79045"
+       ry="0.28063273"
+       inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\UI Icons\UI_Icon_Card_1_Black_9.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:1;fill:#cccccc;fill-opacity:1;stroke:#ababab;stroke-width:0.57122284;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.72941178;paint-order:markers fill stroke;filter:url(#filter1630-8-5-1)"
+       id="rect815-5-2-5-1-6-85"
+       width="8.4666662"
+       height="8.4666662"
+       x="46.295551"
+       y="102.73985"
+       ry="1.1544325"
+       inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\UI Icons\UI_Icon_Card_2_Black_9.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:1;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0.57122284;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect815-5-5-8-3-39"
+       width="8.4666662"
+       height="8.4666662"
+       x="46.295559"
+       y="102.73985"
+       ry="1.1544325"
+       inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\UI Icons\UI_Icon_Card_2_Black_9.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:1;fill:#cccccc;fill-opacity:1;stroke:#ababab;stroke-width:0.57122284;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.72941178;paint-order:markers fill stroke;filter:url(#filter1634-1-8-2)"
+       id="rect815-8-2-3-8-7-62"
+       width="8.4666662"
+       height="8.4666662"
+       x="57.192844"
+       y="102.66039"
+       ry="2.5571153"
+       inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\UI Icons\UI_Icon_Card_3_Black_9.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:1;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0.57122284;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect815-8-9-9-6-58"
+       width="8.4666662"
+       height="8.4666662"
+       x="57.192844"
+       y="102.66039"
+       ry="2.5571153"
+       inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\UI Icons\UI_Icon_Card_3_Black_9.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:1;fill:#f2f2f2;fill-opacity:1;stroke:#ababab;stroke-width:0.57122284;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.72941178;paint-order:markers fill stroke;filter:url(#filter1626-9-2-43)"
+       id="rect815-3-6-7-3-04"
+       width="8.4666662"
+       height="8.4666662"
+       x="35.079578"
+       y="114.62755"
+       ry="0.28063273"
+       inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\UI Icons\UI_Icon_Card_1_Black_10.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:1;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:0.57122284;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect815-86-5-9-56"
+       width="8.4666662"
+       height="8.4666662"
+       x="35.079578"
+       y="114.62755"
+       ry="0.28063273"
+       inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\UI Icons\UI_Icon_Card_1_Black_10.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:1;fill:#f2f2f2;fill-opacity:1;stroke:#ababab;stroke-width:0.57122284;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.72941178;paint-order:markers fill stroke;filter:url(#filter1630-8-5-45)"
+       id="rect815-5-2-5-1-6-40"
+       width="8.4666662"
+       height="8.4666662"
+       x="46.16547"
+       y="114.57695"
+       ry="1.1544325"
+       inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\UI Icons\UI_Icon_Card_2_Black_10.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:1;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:0.57122284;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect815-5-5-8-3-34"
+       width="8.4666662"
+       height="8.4666662"
+       x="46.165478"
+       y="114.57695"
+       ry="1.1544325"
+       inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\UI Icons\UI_Icon_Card_2_Black_10.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:1;fill:#f2f2f2;fill-opacity:1;stroke:#ababab;stroke-width:0.57122284;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.72941178;paint-order:markers fill stroke;filter:url(#filter1634-1-8-3)"
+       id="rect815-8-2-3-8-7-82"
+       width="8.4666662"
+       height="8.4666662"
+       x="57.062763"
+       y="114.49748"
+       ry="2.5571153"
+       inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\UI Icons\UI_Icon_Card_3_Black_10.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:1;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:0.57122284;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect815-8-9-9-6-07"
+       width="8.4666662"
+       height="8.4666662"
+       x="57.062763"
+       y="114.49748"
+       ry="2.5571153"
+       inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\UI Icons\UI_Icon_Card_3_Black_10.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#ababab;stroke-width:0.57122284;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.72941178;paint-order:markers fill stroke;filter:url(#filter1626-9-2-66)"
+       id="rect815-3-6-7-3-26"
+       width="8.4666662"
+       height="8.4666662"
+       x="34.819424"
+       y="127.37518"
+       ry="0.28063273"
+       inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\UI Icons\UI_Icon_Card_1_Black_11.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.57122284;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect815-86-5-9-8"
+       width="8.4666662"
+       height="8.4666662"
+       x="34.819424"
+       y="127.37518"
+       ry="0.28063273"
+       inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\UI Icons\UI_Icon_Card_1_Black_11.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#ababab;stroke-width:0.57122284;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.72941178;paint-order:markers fill stroke;filter:url(#filter1630-8-5-2)"
+       id="rect815-5-2-5-1-6-71"
+       width="8.4666662"
+       height="8.4666662"
+       x="45.905315"
+       y="127.32458"
+       ry="1.1544325"
+       inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\UI Icons\UI_Icon_Card_2_Black_11.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.57122284;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect815-5-5-8-3-102"
+       width="8.4666662"
+       height="8.4666662"
+       x="45.905315"
+       y="127.32458"
+       ry="1.1544325"
+       inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\UI Icons\UI_Icon_Card_2_Black_11.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#ababab;stroke-width:0.57122284;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.72941178;paint-order:markers fill stroke;filter:url(#filter1634-1-8-81)"
+       id="rect815-8-2-3-8-7-65"
+       width="8.4666662"
+       height="8.4666662"
+       x="56.802601"
+       y="127.24512"
+       ry="2.5571153"
+       inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\UI Icons\UI_Icon_Card_3_Black_11.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.57122284;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect815-8-9-9-6-89"
+       width="8.4666662"
+       height="8.4666662"
+       x="56.802601"
+       y="127.24512"
+       ry="2.5571153"
+       inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\UI Icons\UI_Icon_Card_3_Black_11.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:1;fill:url(#radialGradient2440-4-7);fill-opacity:1;stroke:url(#radialGradient2322-7-5);stroke-width:0.82813537;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.72941176;paint-order:markers fill stroke"
+       id="rect2314-7-0"
+       width="507.17188"
+       height="284.92188"
+       x="258.88544"
+       y="-68.200676"
+       rx="2.5145228"
+       ry="2.0435877"
+       inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\Background.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:1;fill:url(#radialGradient4094);fill-opacity:1;stroke:url(#radialGradient2322-7-5-7);stroke-width:0.82813537;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.72941176;paint-order:markers fill stroke"
+       id="rect2314-7-0-0"
+       width="507.17188"
+       height="284.92188"
+       x="864.35907"
+       y="-72.76001"
+       rx="2.5145228"
+       ry="2.0435877"
+       inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\Background_Number.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="949.71503"
+       y="-615.49939"
+       id="text4098"><tspan
+         sodipodi:role="line"
+         id="tspan4096"
+         x="949.71503"
+         y="-605.84387"
+         style="stroke-width:0.26458332"></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;opacity:0.03200001;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.26458332;filter:url(#filter4262)"
+       x="878.8269"
+       y="-51.613529"
+       id="text4106"
+       inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\Background_Number.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan4104"
+         x="878.8269"
+         y="-51.613529"
+         style="fill:#666666;stroke-width:0.26458332">09235639745620394765032947652394652394765239074653209746532479065238764</tspan><tspan
+         sodipodi:role="line"
+         x="878.8269"
+         y="-38.384342"
+         style="fill:#666666;stroke-width:0.26458332"
+         id="tspan4172">23978463298746298374628730403975632790469073265023974659873645287629345</tspan><tspan
+         sodipodi:role="line"
+         x="878.8269"
+         y="-25.155216"
+         style="fill:#666666;stroke-width:0.26458332"
+         id="tspan4174">23987465329874653297486532987465093476523874783629857698723645827365329</tspan><tspan
+         sodipodi:role="line"
+         x="878.8269"
+         y="-11.926029"
+         style="fill:#666666;stroke-width:0.26458332"
+         id="tspan4176">29034562345423985723653479832798632479865324798653498732875329856734927</tspan><tspan
+         sodipodi:role="line"
+         x="878.8269"
+         y="1.303158"
+         style="fill:#666666;stroke-width:0.26458332"
+         id="tspan4178">28346573576832502734650279407365324708563249576324986573249578662348769</tspan><tspan
+         sodipodi:role="line"
+         x="878.8269"
+         y="14.532284"
+         style="fill:#666666;stroke-width:0.26458332"
+         id="tspan4180">09235639745620394765032947652394652394765239074653209746532479065238764</tspan><tspan
+         sodipodi:role="line"
+         x="878.8269"
+         y="27.761471"
+         style="fill:#666666;stroke-width:0.26458332"
+         id="tspan4182">23978463298746298374628730403975632790469073265023974659873645287629345</tspan><tspan
+         sodipodi:role="line"
+         x="878.8269"
+         y="40.990658"
+         style="fill:#666666;stroke-width:0.26458332"
+         id="tspan4184">23987465329874653297486532987465093476523874783629857698723645827365329</tspan><tspan
+         sodipodi:role="line"
+         x="878.8269"
+         y="54.219784"
+         style="fill:#666666;stroke-width:0.26458332"
+         id="tspan4186">29034562345423985723653479832798632479865324798653498732875329856734927</tspan><tspan
+         sodipodi:role="line"
+         x="878.8269"
+         y="67.448975"
+         style="fill:#666666;stroke-width:0.26458332"
+         id="tspan4188">28346573576832502734650279407365324708563249576324986573249578662348769</tspan><tspan
+         sodipodi:role="line"
+         x="878.8269"
+         y="80.678162"
+         style="fill:#666666;stroke-width:0.26458332"
+         id="tspan4190">09235639745620394765032947652394652394765239074653209746532479065238764</tspan><tspan
+         sodipodi:role="line"
+         x="878.8269"
+         y="93.907288"
+         style="fill:#666666;stroke-width:0.26458332"
+         id="tspan4192">23978463298746298374628730403975632790469073265023974659873645287629345</tspan><tspan
+         sodipodi:role="line"
+         x="878.8269"
+         y="107.13647"
+         style="fill:#666666;stroke-width:0.26458332"
+         id="tspan4194">23987465329874653297486532987465093476523874783629857698723645827365329</tspan><tspan
+         sodipodi:role="line"
+         x="878.8269"
+         y="120.36563"
+         style="fill:#666666;stroke-width:0.26458332"
+         id="tspan4196">29034562345423985723653479832798632479865324798653498732875329856734927</tspan><tspan
+         sodipodi:role="line"
+         x="878.8269"
+         y="133.59479"
+         style="fill:#666666;stroke-width:0.26458332"
+         id="tspan4198">28346573576832502734650279407365324708563249576324986573249578662348769</tspan><tspan
+         sodipodi:role="line"
+         x="878.8269"
+         y="146.82397"
+         style="fill:#666666;stroke-width:0.26458332"
+         id="tspan4200">09235639745620394765032947652394652394765239074653209746532479065238764</tspan><tspan
+         sodipodi:role="line"
+         x="878.8269"
+         y="160.05313"
+         style="fill:#666666;stroke-width:0.26458332"
+         id="tspan4202">23978463298746298374628730403975632790469073265023974659873645287629345</tspan><tspan
+         sodipodi:role="line"
+         x="878.8269"
+         y="173.28229"
+         style="fill:#666666;stroke-width:0.26458332"
+         id="tspan4204">23987465329874653297486532987465093476523874783629857698723645827365329</tspan><tspan
+         sodipodi:role="line"
+         x="878.8269"
+         y="186.51147"
+         style="fill:#666666;stroke-width:0.26458332"
+         id="tspan4206">29034562345423985723653479832798632479865324798653498732875329856734927</tspan><tspan
+         sodipodi:role="line"
+         x="878.8269"
+         y="199.74063"
+         style="fill:#666666;stroke-width:0.26458332"
+         id="tspan4208">28346573576832502734650279407365324708563249576324986573249578662348769</tspan></text>
+    <rect
+       style="opacity:0.29899998;fill:#000000;fill-opacity:1;stroke:url(#radialGradient2322-70-7-5);stroke-width:0.82813537;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.72941176;paint-order:markers fill stroke"
+       id="rect2314-3-1-2"
+       width="507.17188"
+       height="284.92188"
+       x="864.35907"
+       y="-72.76001"
+       rx="2.5145228"
+       ry="2.0435877"
+       inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\Background_Number.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+  </g>
+</svg>
