@@ -6399,6 +6399,409 @@
          stdDeviation="0.52124066"
          id="feGaussianBlur25085-5-5-4-7-3" />
     </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter25083-0-3-0-5-8-9"
+       x="-0.038400002"
+       width="1.0768"
+       y="-0.038400002"
+       height="1.0768">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.52124066"
+         id="feGaussianBlur25085-5-5-4-7-3-5" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter25083-0-3-0-5-8-9-2"
+       x="-0.038400002"
+       width="1.0768"
+       y="-0.038400002"
+       height="1.0768">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.52124066"
+         id="feGaussianBlur25085-5-5-4-7-3-5-5" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter25083-13-3-9-5-11-3"
+       x="-0.038400002"
+       width="1.0768"
+       y="-0.038400002"
+       height="1.0768">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.52124066"
+         id="feGaussianBlur25085-4-6-8-7-5-4" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter26065-67-8-0-2-7-2"
+       x="-0.37229684"
+       width="1.7445937"
+       y="-0.039276429"
+       height="1.0785528">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.53313876"
+         id="feGaussianBlur26067-59-6-0-2-5-0" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter26069-39-7-3-6-0-0"
+       x="-0.37229684"
+       width="1.7445937"
+       y="-0.039276429"
+       height="1.0785528">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.53313876"
+         id="feGaussianBlur26071-4-9-5-3-7-0" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter26073-62-83-6-9-3-2"
+       x="-0.37229684"
+       width="1.7445937"
+       y="-0.039276429"
+       height="1.0785528">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.53313876"
+         id="feGaussianBlur26075-92-7-1-2-8-0" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter26077-02-6-8-7-3-8"
+       x="-0.37229684"
+       width="1.7445937"
+       y="-0.039276429"
+       height="1.0785528">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.53313876"
+         id="feGaussianBlur26079-44-5-4-9-6-9" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter25083-13-3-9-5-11-3-9"
+       x="-0.038400002"
+       width="1.0768"
+       y="-0.038400002"
+       height="1.0768">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.52124066"
+         id="feGaussianBlur25085-4-6-8-7-5-4-9" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter26065-67-8-0-2-7-2-9"
+       x="-0.37229684"
+       width="1.7445937"
+       y="-0.039276429"
+       height="1.0785528">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.53313876"
+         id="feGaussianBlur26067-59-6-0-2-5-0-5" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter26069-39-7-3-6-0-0-1"
+       x="-0.37229684"
+       width="1.7445937"
+       y="-0.039276429"
+       height="1.0785528">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.53313876"
+         id="feGaussianBlur26071-4-9-5-3-7-0-7" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter26073-62-83-6-9-3-2-4"
+       x="-0.37229684"
+       width="1.7445937"
+       y="-0.039276429"
+       height="1.0785528">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.53313876"
+         id="feGaussianBlur26075-92-7-1-2-8-0-2" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter26077-02-6-8-7-3-8-5"
+       x="-0.37229684"
+       width="1.7445937"
+       y="-0.039276429"
+       height="1.0785528">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.53313876"
+         id="feGaussianBlur26079-44-5-4-9-6-9-5" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter25083-13-3-9-5-11-2"
+       x="-0.038400002"
+       width="1.0768"
+       y="-0.038400002"
+       height="1.0768">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.52124066"
+         id="feGaussianBlur25085-4-6-8-7-5-3" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter26065-67-8-0-2-7-3"
+       x="-0.37229684"
+       width="1.7445937"
+       y="-0.039276429"
+       height="1.0785528">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.53313876"
+         id="feGaussianBlur26067-59-6-0-2-5-00" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter26069-39-7-3-6-0-3"
+       x="-0.37229684"
+       width="1.7445937"
+       y="-0.039276429"
+       height="1.0785528">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.53313876"
+         id="feGaussianBlur26071-4-9-5-3-7-6" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter26073-62-83-6-9-3-6"
+       x="-0.37229684"
+       width="1.7445937"
+       y="-0.039276429"
+       height="1.0785528">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.53313876"
+         id="feGaussianBlur26075-92-7-1-2-8-9" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter26077-02-6-8-7-3-0"
+       x="-0.37229684"
+       width="1.7445937"
+       y="-0.039276429"
+       height="1.0785528">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.53313876"
+         id="feGaussianBlur26079-44-5-4-9-6-2" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter25083-0-3-0-5-9-7"
+       x="-0.038400002"
+       width="1.0768"
+       y="-0.038400002"
+       height="1.0768">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.52124066"
+         id="feGaussianBlur25085-5-5-4-7-6-3" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter25083-13-3-9-5-1-6-2"
+       x="-0.038400002"
+       width="1.0768"
+       y="-0.038400002"
+       height="1.0768">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.52124066"
+         id="feGaussianBlur25085-4-6-8-7-7-4-2" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter26065-67-8-0-2-4-3-6"
+       x="-0.37229684"
+       width="1.7445937"
+       y="-0.039276429"
+       height="1.0785528">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.53313876"
+         id="feGaussianBlur26067-59-6-0-2-7-8-9" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter26069-39-7-3-6-4-1-6"
+       x="-0.37229684"
+       width="1.7445937"
+       y="-0.039276429"
+       height="1.0785528">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.53313876"
+         id="feGaussianBlur26071-4-9-5-3-9-0-5" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter26073-62-83-6-9-9-7-3"
+       x="-0.37229684"
+       width="1.7445937"
+       y="-0.039276429"
+       height="1.0785528">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.53313876"
+         id="feGaussianBlur26075-92-7-1-2-7-8-0" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter26077-02-6-8-7-9-3-3"
+       x="-0.37229684"
+       width="1.7445937"
+       y="-0.039276429"
+       height="1.0785528">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.53313876"
+         id="feGaussianBlur26079-44-5-4-9-9-1-3" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter25083-0-3-0-5-8-4"
+       x="-0.038400002"
+       width="1.0768"
+       y="-0.038400002"
+       height="1.0768">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.52124066"
+         id="feGaussianBlur25085-5-5-4-7-3-8" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter25083-0-3-0-5-8-9-0"
+       x="-0.038400002"
+       width="1.0768"
+       y="-0.038400002"
+       height="1.0768">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.52124066"
+         id="feGaussianBlur25085-5-5-4-7-3-5-6" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter25083-0-3-0-5-8-9-2-2"
+       x="-0.038400002"
+       width="1.0768"
+       y="-0.038400002"
+       height="1.0768">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.52124066"
+         id="feGaussianBlur25085-5-5-4-7-3-5-5-5" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter25083-13-3-9-5-1-6-2-0"
+       x="-0.038400002"
+       width="1.0768"
+       y="-0.038400002"
+       height="1.0768">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.52124066"
+         id="feGaussianBlur25085-4-6-8-7-7-4-2-2" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter26065-67-8-0-2-4-3-6-6"
+       x="-0.37229684"
+       width="1.7445937"
+       y="-0.039276429"
+       height="1.0785528">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.53313876"
+         id="feGaussianBlur26067-59-6-0-2-7-8-9-0" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter26069-39-7-3-6-4-1-6-6"
+       x="-0.37229684"
+       width="1.7445937"
+       y="-0.039276429"
+       height="1.0785528">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.53313876"
+         id="feGaussianBlur26071-4-9-5-3-9-0-5-0" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter26073-62-83-6-9-9-7-3-5"
+       x="-0.37229684"
+       width="1.7445937"
+       y="-0.039276429"
+       height="1.0785528">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.53313876"
+         id="feGaussianBlur26075-92-7-1-2-7-8-0-4" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter26077-02-6-8-7-9-3-3-9"
+       x="-0.37229684"
+       width="1.7445937"
+       y="-0.039276429"
+       height="1.0785528">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.53313876"
+         id="feGaussianBlur26079-44-5-4-9-9-1-3-1" />
+    </filter>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -6407,9 +6810,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.5192033"
-     inkscape:cx="3974.2133"
-     inkscape:cy="-13611.305"
+     inkscape:zoom="1.0742389"
+     inkscape:cx="3956.0977"
+     inkscape:cy="-13914.117"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -17849,13 +18252,169 @@
        id="g5912-7-7"
        transform="matrix(1.4481033,0,0,1.4450449,-342.56416,-1714.5186)" />
     <g
-       id="g6409"
-       transform="matrix(1.137769,0,0,1.1236165,-162.96182,-472.97282)"
-       inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\UI Icons\UI_Icon_Game_192.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96">
+       id="g6661">
       <g
-         transform="matrix(0.9668402,0.26507034,-0.26507034,0.9668402,1127.5356,-96.309991)"
+         transform="matrix(1.1000408,0.29783741,-0.30158883,1.0863576,1211.2188,-517.92771)"
+         id="g5912-8-8">
+        <rect
+           style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.28912449;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke;filter:url(#filter25083-13-3-9-5-11-3)"
+           id="rect25040-1-79-7-6-4-7"
+           width="32.577541"
+           height="32.577541"
+           x="974.4751"
+           y="3836.3469"
+           rx="0.88105738"
+           ry="0.70037252"
+           inkscape:export-filename="C:\Users\Casper\Desktop\Yeni klasör (5)\6.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <rect
+           style="opacity:1;fill:#202f8a;fill-opacity:1;stroke:none;stroke-width:1.28912449;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+           id="rect25040-8-94-9-3-7-4-5"
+           width="32.577545"
+           height="32.577545"
+           x="974.4751"
+           y="3836.3462"
+           rx="0.88105738"
+           ry="0.70037252"
+           inkscape:export-filename="C:\Users\Casper\Desktop\Yeni klasör (5)\6.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <rect
+           style="opacity:0.475;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.81199998;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke;filter:url(#filter26065-67-8-0-2-7-2)"
+           id="rect25508-13-0-4-7-6-0"
+           width="3.4368625"
+           height="32.577633"
+           x="977.31689"
+           y="3836.3469"
+           rx="0"
+           ry="0.00010498778"
+           inkscape:export-filename="C:\Users\Casper\Desktop\Yeni klasör (5)\6.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <rect
+           style="opacity:1;fill:#c83737;fill-opacity:1;stroke:none;stroke-width:1.71181464;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+           id="rect25508-1-64-0-2-4-6-6"
+           width="3.4368625"
+           height="32.577633"
+           x="984.77881"
+           y="3836.3462"
+           rx="0"
+           ry="0.00010498778"
+           inkscape:export-filename="C:\Users\Casper\Desktop\Yeni klasör (5)\6.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <rect
+           style="opacity:1;fill:#c83737;fill-opacity:1;stroke:none;stroke-width:1.71181464;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+           id="rect25508-2-7-9-4-9-4-0"
+           width="3.4368625"
+           height="32.577633"
+           x="992.79004"
+           y="3836.3462"
+           rx="0"
+           ry="0.00010498778"
+           inkscape:export-filename="C:\Users\Casper\Desktop\Yeni klasör (5)\6.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <rect
+           style="opacity:1;fill:#c83737;fill-opacity:1;stroke:none;stroke-width:1.71181464;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+           id="rect25508-5-82-2-5-8-7-9"
+           width="3.4368625"
+           height="32.577633"
+           x="1000.54"
+           y="3836.3462"
+           rx="0"
+           ry="0.00010498778"
+           inkscape:export-filename="C:\Users\Casper\Desktop\Yeni klasör (5)\6.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <rect
+           style="opacity:1;fill:#3778da;fill-opacity:1;stroke:none;stroke-width:1.71181464;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+           id="rect25508-9-68-7-4-5-3-8"
+           width="3.4368625"
+           height="32.577633"
+           x="977.31689"
+           y="3836.3462"
+           rx="0"
+           ry="0.00010498778"
+           inkscape:export-filename="C:\Users\Casper\Desktop\Yeni klasör (5)\6.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <rect
+           style="opacity:0.475;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.81199998;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke;filter:url(#filter26069-39-7-3-6-0-0)"
+           id="rect25508-8-93-6-8-9-43-5"
+           width="3.4368625"
+           height="32.577633"
+           x="984.77881"
+           y="3836.3469"
+           rx="0"
+           ry="0.00010498778"
+           inkscape:export-filename="C:\Users\Casper\Desktop\Yeni klasör (5)\6.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <rect
+           style="opacity:1;fill:#3778da;fill-opacity:1;stroke:none;stroke-width:1.71181464;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+           id="rect25508-9-0-00-7-3-6-73-3"
+           width="3.4368625"
+           height="32.577633"
+           x="984.77881"
+           y="3836.3462"
+           rx="0"
+           ry="0.00010498778"
+           inkscape:export-filename="C:\Users\Casper\Desktop\Yeni klasör (5)\6.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <rect
+           style="opacity:0.475;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.81199998;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke;filter:url(#filter26073-62-83-6-9-3-2)"
+           id="rect25508-6-42-1-2-6-0-3"
+           width="3.4368625"
+           height="32.577633"
+           x="992.79004"
+           y="3836.3469"
+           rx="0"
+           ry="0.00010498778"
+           inkscape:export-filename="C:\Users\Casper\Desktop\Yeni klasör (5)\6.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <rect
+           style="opacity:1;fill:#3778da;fill-opacity:1;stroke:none;stroke-width:1.71181464;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+           id="rect25508-9-8-53-5-9-3-0-3"
+           width="3.4368625"
+           height="32.577633"
+           x="992.79004"
+           y="3836.3462"
+           rx="0"
+           ry="0.00010498778"
+           inkscape:export-filename="C:\Users\Casper\Desktop\Yeni klasör (5)\6.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <rect
+           style="opacity:0.475;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.81199998;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke;filter:url(#filter26077-02-6-8-7-3-8)"
+           id="rect25508-24-46-2-2-5-0-5"
+           width="3.4368625"
+           height="32.577633"
+           x="1000.54"
+           y="3836.3469"
+           rx="0"
+           ry="0.00010498778"
+           inkscape:export-filename="C:\Users\Casper\Desktop\Yeni klasör (5)\6.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <rect
+           style="opacity:1;fill:#3778da;fill-opacity:1;stroke:none;stroke-width:1.71181464;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+           id="rect25508-9-4-82-5-4-4-1-7"
+           width="3.4368625"
+           height="32.577633"
+           x="1000.54"
+           y="3836.3462"
+           rx="0"
+           ry="0.00010498778"
+           inkscape:export-filename="C:\Users\Casper\Desktop\Yeni klasör (5)\6.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+      </g>
+      <g
+         transform="matrix(1.1000408,0.29783741,-0.30158882,1.0863576,1228.0439,-511.8667)"
          id="g5912-8">
         <rect
            style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.28912449;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke;filter:url(#filter25083-13-3-9-5-11)"
@@ -18015,7 +18574,7 @@
            inkscape:export-ydpi="96" />
       </g>
       <g
-         transform="matrix(0.63379209,0,0,0.63385509,385.51913,1443.5353)"
+         transform="matrix(0.72110899,0,0,0.71221004,372.67661,1221.1093)"
          id="g5897-3">
         <rect
            style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.28912449;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke;filter:url(#filter25083-0-3-0-5-9)"
@@ -18044,19 +18603,19 @@
            inkscape:export-ydpi="92.681221" />
       </g>
       <text
-         transform="scale(1.0001909,0.99980913)"
+         transform="scale(1.0064702,0.9935714)"
          id="text5780-3-1"
-         y="3903.0076"
-         x="1058.4432"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24.48342705px;line-height:1.25;font-family:Exo;-inkscape-font-specification:Exo;letter-spacing:0px;word-spacing:0px;fill:#d45500;fill-opacity:1;stroke:none;stroke-width:0.6120857"
+         y="4008.1494"
+         x="1126.7205"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.68269157px;line-height:1.25;font-family:Exo;-inkscape-font-specification:Exo;letter-spacing:0px;word-spacing:0px;fill:#d45500;fill-opacity:1;stroke:none;stroke-width:0.69206733"
          xml:space="preserve"><tspan
-           style="fill:#d45500;stroke-width:0.6120857"
-           y="3903.0076"
-           x="1058.4432"
+           style="fill:#d45500;stroke-width:0.69206733"
+           y="4008.1494"
+           x="1126.7205"
            id="tspan5778-2-0"
-           sodipodi:role="line">5</tspan></text>
+           sodipodi:role="line">12</tspan></text>
       <g
-         transform="matrix(0.83135089,-0.38883028,0.38800907,0.82959505,-1255.8149,1079.247)"
+         transform="matrix(0.94588527,-0.43689612,0.44146469,0.93214669,-1482.6419,797.14379)"
          id="g6011-8">
         <rect
            inkscape:export-ydpi="96"
@@ -18216,7 +18775,7 @@
            style="opacity:1;fill:#3778da;fill-opacity:1;stroke:none;stroke-width:1.71181464;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" />
       </g>
       <g
-         transform="matrix(0.5442539,0.32477701,-0.32480929,0.544308,1734.2458,1438.8199)"
+         transform="matrix(0.61923522,0.36492481,-0.36955794,0.61159345,1919.233,1214.5918)"
          id="g5897-4">
         <rect
            style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.28912449;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke;filter:url(#filter25083-0-3-0-5-8)"
@@ -18245,17 +18804,918 @@
            inkscape:export-ydpi="92.681221" />
       </g>
       <text
-         transform="matrix(0.85889018,0.51253244,-0.51233681,0.85856234,0,0)"
+         transform="matrix(0.86428233,0.50933482,-0.51555328,0.85320588,0,0)"
          id="text5780-3-19"
-         y="2806.1279"
-         x="2900.2197"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24.48342705px;line-height:1.25;font-family:Exo;-inkscape-font-specification:Exo;letter-spacing:0px;word-spacing:0px;fill:#d45500;fill-opacity:1;stroke:none;stroke-width:0.6120857"
+         y="2852.7595"
+         x="3025.874"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.68269157px;line-height:1.25;font-family:Exo;-inkscape-font-specification:Exo;letter-spacing:0px;word-spacing:0px;fill:#d45500;fill-opacity:1;stroke:none;stroke-width:0.69206733"
          xml:space="preserve"><tspan
-           style="fill:#d45500;stroke-width:0.6120857"
-           y="2806.1279"
-           x="2900.2197"
+           style="fill:#d45500;stroke-width:0.69206733"
+           y="2852.7595"
+           x="3025.874"
            id="tspan5778-2-6"
            sodipodi:role="line">2</tspan></text>
+      <g
+         transform="matrix(0.67367258,-0.25057464,0.24172197,0.67245082,-565.10608,1638.5939)"
+         id="g5897-4-8">
+        <rect
+           style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.28912449;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke;filter:url(#filter25083-0-3-0-5-8-9)"
+           id="rect25040-2-1-03-2-4-7"
+           width="32.577541"
+           height="32.577541"
+           x="1073.8661"
+           y="3782.3298"
+           rx="0.88105738"
+           ry="0.70037252"
+           inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\UI_Icon_Card_Blue.png"
+           inkscape:export-xdpi="92.681221"
+           inkscape:export-ydpi="92.681221"
+           transform="matrix(1.4392881,0.17741207,-0.17533315,1.4352589,237.64484,-1777.3796)" />
+        <rect
+           transform="matrix(0.99248851,0.12233787,-0.12125988,0.99262079,0,0)"
+           style="opacity:1;fill:#202f8a;fill-opacity:1;stroke:none;stroke-width:1.86672044;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+           id="rect25040-8-9-3-0-3-5-4"
+           width="47.243343"
+           height="47.104805"
+           x="1577.6667"
+           y="3675.8765"
+           rx="1.2776928"
+           ry="1.0126886"
+           inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\UI_Icon_Card_Blue.png"
+           inkscape:export-xdpi="92.681221"
+           inkscape:export-ydpi="92.681221" />
+      </g>
+      <text
+         transform="matrix(0.97585661,-0.23261513,0.22045277,0.97219135,0,0)"
+         id="text5780-3-19-9"
+         y="4133.4629"
+         x="228.07016"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.68269157px;line-height:1.25;font-family:Exo;-inkscape-font-specification:Exo;letter-spacing:0px;word-spacing:0px;fill:#d45500;fill-opacity:1;stroke:none;stroke-width:0.69206733"
+         xml:space="preserve"><tspan
+           style="fill:#d45500;stroke-width:0.69206733"
+           y="4133.4629"
+           x="228.07016"
+           id="tspan5778-2-6-7"
+           sodipodi:role="line">7</tspan></text>
+      <g
+         transform="matrix(0.71648979,0.05713818,-0.06464826,0.71164613,565.51622,1154.266)"
+         id="g5897-4-8-8">
+        <rect
+           style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.28912449;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke;filter:url(#filter25083-0-3-0-5-8-9-2)"
+           id="rect25040-2-1-03-2-4-7-4"
+           width="32.577541"
+           height="32.577541"
+           x="1073.8661"
+           y="3782.3298"
+           rx="0.88105738"
+           ry="0.70037252"
+           inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\UI_Icon_Card_Blue.png"
+           inkscape:export-xdpi="92.681221"
+           inkscape:export-ydpi="92.681221"
+           transform="matrix(1.4392881,0.17741207,-0.17533315,1.4352589,245.97583,-1772.2459)" />
+        <rect
+           transform="matrix(0.99248851,0.12233787,-0.12125988,0.99262079,0,0)"
+           style="opacity:1;fill:#202f8a;fill-opacity:1;stroke:none;stroke-width:1.86672044;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+           id="rect25040-8-9-3-0-3-5-4-6"
+           width="47.243343"
+           height="47.104805"
+           x="1586.5587"
+           y="3679.9524"
+           rx="1.2776928"
+           ry="1.0126886"
+           inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\UI_Icon_Card_Blue.png"
+           inkscape:export-xdpi="92.681221"
+           inkscape:export-ydpi="92.681221" />
+      </g>
+      <text
+         transform="matrix(0.98286599,0.20094864,-0.21042804,0.97441033,0,0)"
+         id="text5780-3-19-9-0"
+         y="3689.1941"
+         x="1938.5594"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.68269157px;line-height:1.25;font-family:Exo;-inkscape-font-specification:Exo;letter-spacing:0px;word-spacing:0px;fill:#d45500;fill-opacity:1;stroke:none;stroke-width:0.69206733"
+         xml:space="preserve"><tspan
+           style="fill:#d45500;stroke-width:0.69206733"
+           y="3689.1941"
+           x="1938.5594"
+           id="tspan5778-2-6-7-5"
+           sodipodi:role="line">5</tspan></text>
+    </g>
+    <g
+       id="g7200"
+       transform="translate(-54.678245,2.2166852)"
+       inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\UI Icons\UI_Icon_Game_192_2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <g
+         id="g7278"
+         transform="matrix(0.72313472,0,0,0.72681621,282.93121,1090.2809)">
+        <g
+           id="g5912-8-8-8"
+           transform="matrix(1.1000408,0.29783741,-0.30158883,1.0863576,1122.2948,-524.75781)">
+          <rect
+             inkscape:export-ydpi="96"
+             inkscape:export-xdpi="96"
+             inkscape:export-filename="C:\Users\Casper\Desktop\Yeni klasör (5)\6.png"
+             ry="0.70037252"
+             rx="0.88105738"
+             y="3836.3469"
+             x="974.4751"
+             height="32.577541"
+             width="32.577541"
+             id="rect25040-1-79-7-6-4-7-6"
+             style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.28912449;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke;filter:url(#filter25083-13-3-9-5-11-3-9)" />
+          <rect
+             inkscape:export-ydpi="96"
+             inkscape:export-xdpi="96"
+             inkscape:export-filename="C:\Users\Casper\Desktop\Yeni klasör (5)\6.png"
+             ry="0.70037252"
+             rx="0.88105738"
+             y="3836.3462"
+             x="974.4751"
+             height="32.577545"
+             width="32.577545"
+             id="rect25040-8-94-9-3-7-4-5-8"
+             style="opacity:1;fill:#202f8a;fill-opacity:1;stroke:none;stroke-width:1.28912449;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" />
+          <rect
+             inkscape:export-ydpi="96"
+             inkscape:export-xdpi="96"
+             inkscape:export-filename="C:\Users\Casper\Desktop\Yeni klasör (5)\6.png"
+             ry="0.00010498778"
+             rx="0"
+             y="3836.3469"
+             x="977.31689"
+             height="32.577633"
+             width="3.4368625"
+             id="rect25508-13-0-4-7-6-0-5"
+             style="opacity:0.475;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.81199998;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke;filter:url(#filter26065-67-8-0-2-7-2-9)" />
+          <rect
+             inkscape:export-ydpi="96"
+             inkscape:export-xdpi="96"
+             inkscape:export-filename="C:\Users\Casper\Desktop\Yeni klasör (5)\6.png"
+             ry="0.00010498778"
+             rx="0"
+             y="3836.3462"
+             x="984.77881"
+             height="32.577633"
+             width="3.4368625"
+             id="rect25508-1-64-0-2-4-6-6-8"
+             style="opacity:1;fill:#c83737;fill-opacity:1;stroke:none;stroke-width:1.71181464;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" />
+          <rect
+             inkscape:export-ydpi="96"
+             inkscape:export-xdpi="96"
+             inkscape:export-filename="C:\Users\Casper\Desktop\Yeni klasör (5)\6.png"
+             ry="0.00010498778"
+             rx="0"
+             y="3836.3462"
+             x="992.79004"
+             height="32.577633"
+             width="3.4368625"
+             id="rect25508-2-7-9-4-9-4-0-7"
+             style="opacity:1;fill:#c83737;fill-opacity:1;stroke:none;stroke-width:1.71181464;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" />
+          <rect
+             inkscape:export-ydpi="96"
+             inkscape:export-xdpi="96"
+             inkscape:export-filename="C:\Users\Casper\Desktop\Yeni klasör (5)\6.png"
+             ry="0.00010498778"
+             rx="0"
+             y="3836.3462"
+             x="1000.54"
+             height="32.577633"
+             width="3.4368625"
+             id="rect25508-5-82-2-5-8-7-9-6"
+             style="opacity:1;fill:#c83737;fill-opacity:1;stroke:none;stroke-width:1.71181464;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" />
+          <rect
+             inkscape:export-ydpi="96"
+             inkscape:export-xdpi="96"
+             inkscape:export-filename="C:\Users\Casper\Desktop\Yeni klasör (5)\6.png"
+             ry="0.00010498778"
+             rx="0"
+             y="3836.3462"
+             x="977.31689"
+             height="32.577633"
+             width="3.4368625"
+             id="rect25508-9-68-7-4-5-3-8-3"
+             style="opacity:1;fill:#3778da;fill-opacity:1;stroke:none;stroke-width:1.71181464;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" />
+          <rect
+             inkscape:export-ydpi="96"
+             inkscape:export-xdpi="96"
+             inkscape:export-filename="C:\Users\Casper\Desktop\Yeni klasör (5)\6.png"
+             ry="0.00010498778"
+             rx="0"
+             y="3836.3469"
+             x="984.77881"
+             height="32.577633"
+             width="3.4368625"
+             id="rect25508-8-93-6-8-9-43-5-2"
+             style="opacity:0.475;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.81199998;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke;filter:url(#filter26069-39-7-3-6-0-0-1)" />
+          <rect
+             inkscape:export-ydpi="96"
+             inkscape:export-xdpi="96"
+             inkscape:export-filename="C:\Users\Casper\Desktop\Yeni klasör (5)\6.png"
+             ry="0.00010498778"
+             rx="0"
+             y="3836.3462"
+             x="984.77881"
+             height="32.577633"
+             width="3.4368625"
+             id="rect25508-9-0-00-7-3-6-73-3-2"
+             style="opacity:1;fill:#3778da;fill-opacity:1;stroke:none;stroke-width:1.71181464;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" />
+          <rect
+             inkscape:export-ydpi="96"
+             inkscape:export-xdpi="96"
+             inkscape:export-filename="C:\Users\Casper\Desktop\Yeni klasör (5)\6.png"
+             ry="0.00010498778"
+             rx="0"
+             y="3836.3469"
+             x="992.79004"
+             height="32.577633"
+             width="3.4368625"
+             id="rect25508-6-42-1-2-6-0-3-3"
+             style="opacity:0.475;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.81199998;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke;filter:url(#filter26073-62-83-6-9-3-2-4)" />
+          <rect
+             inkscape:export-ydpi="96"
+             inkscape:export-xdpi="96"
+             inkscape:export-filename="C:\Users\Casper\Desktop\Yeni klasör (5)\6.png"
+             ry="0.00010498778"
+             rx="0"
+             y="3836.3462"
+             x="992.79004"
+             height="32.577633"
+             width="3.4368625"
+             id="rect25508-9-8-53-5-9-3-0-3-2"
+             style="opacity:1;fill:#3778da;fill-opacity:1;stroke:none;stroke-width:1.71181464;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" />
+          <rect
+             inkscape:export-ydpi="96"
+             inkscape:export-xdpi="96"
+             inkscape:export-filename="C:\Users\Casper\Desktop\Yeni klasör (5)\6.png"
+             ry="0.00010498778"
+             rx="0"
+             y="3836.3469"
+             x="1000.54"
+             height="32.577633"
+             width="3.4368625"
+             id="rect25508-24-46-2-2-5-0-5-3"
+             style="opacity:0.475;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.81199998;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke;filter:url(#filter26077-02-6-8-7-3-8-5)" />
+          <rect
+             inkscape:export-ydpi="96"
+             inkscape:export-xdpi="96"
+             inkscape:export-filename="C:\Users\Casper\Desktop\Yeni klasör (5)\6.png"
+             ry="0.00010498778"
+             rx="0"
+             y="3836.3462"
+             x="1000.54"
+             height="32.577633"
+             width="3.4368625"
+             id="rect25508-9-4-82-5-4-4-1-7-0"
+             style="opacity:1;fill:#3778da;fill-opacity:1;stroke:none;stroke-width:1.71181464;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" />
+        </g>
+        <g
+           id="g5912-8-3"
+           transform="matrix(1.1000408,0.29783741,-0.30158882,1.0863576,1139.1199,-518.6968)">
+          <rect
+             inkscape:export-ydpi="96"
+             inkscape:export-xdpi="96"
+             inkscape:export-filename="C:\Users\Casper\Desktop\Yeni klasör (5)\6.png"
+             ry="0.70037252"
+             rx="0.88105738"
+             y="3836.3469"
+             x="974.4751"
+             height="32.577541"
+             width="32.577541"
+             id="rect25040-1-79-7-6-4-0"
+             style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.28912449;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke;filter:url(#filter25083-13-3-9-5-11-2)" />
+          <rect
+             inkscape:export-ydpi="96"
+             inkscape:export-xdpi="96"
+             inkscape:export-filename="C:\Users\Casper\Desktop\Yeni klasör (5)\6.png"
+             ry="0.70037252"
+             rx="0.88105738"
+             y="3836.3462"
+             x="974.4751"
+             height="32.577545"
+             width="32.577545"
+             id="rect25040-8-94-9-3-7-4-8"
+             style="opacity:1;fill:#202f8a;fill-opacity:1;stroke:none;stroke-width:1.28912449;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" />
+          <rect
+             inkscape:export-ydpi="96"
+             inkscape:export-xdpi="96"
+             inkscape:export-filename="C:\Users\Casper\Desktop\Yeni klasör (5)\6.png"
+             ry="0.00010498778"
+             rx="0"
+             y="3836.3469"
+             x="977.31689"
+             height="32.577633"
+             width="3.4368625"
+             id="rect25508-13-0-4-7-6-2"
+             style="opacity:0.475;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.81199998;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke;filter:url(#filter26065-67-8-0-2-7-3)" />
+          <rect
+             inkscape:export-ydpi="96"
+             inkscape:export-xdpi="96"
+             inkscape:export-filename="C:\Users\Casper\Desktop\Yeni klasör (5)\6.png"
+             ry="0.00010498778"
+             rx="0"
+             y="3836.3462"
+             x="984.77881"
+             height="32.577633"
+             width="3.4368625"
+             id="rect25508-1-64-0-2-4-6-8"
+             style="opacity:1;fill:#c83737;fill-opacity:1;stroke:none;stroke-width:1.71181464;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" />
+          <rect
+             inkscape:export-ydpi="96"
+             inkscape:export-xdpi="96"
+             inkscape:export-filename="C:\Users\Casper\Desktop\Yeni klasör (5)\6.png"
+             ry="0.00010498778"
+             rx="0"
+             y="3836.3462"
+             x="992.79004"
+             height="32.577633"
+             width="3.4368625"
+             id="rect25508-2-7-9-4-9-4-3"
+             style="opacity:1;fill:#c83737;fill-opacity:1;stroke:none;stroke-width:1.71181464;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" />
+          <rect
+             inkscape:export-ydpi="96"
+             inkscape:export-xdpi="96"
+             inkscape:export-filename="C:\Users\Casper\Desktop\Yeni klasör (5)\6.png"
+             ry="0.00010498778"
+             rx="0"
+             y="3836.3462"
+             x="1000.54"
+             height="32.577633"
+             width="3.4368625"
+             id="rect25508-5-82-2-5-8-7-0"
+             style="opacity:1;fill:#c83737;fill-opacity:1;stroke:none;stroke-width:1.71181464;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" />
+          <rect
+             inkscape:export-ydpi="96"
+             inkscape:export-xdpi="96"
+             inkscape:export-filename="C:\Users\Casper\Desktop\Yeni klasör (5)\6.png"
+             ry="0.00010498778"
+             rx="0"
+             y="3836.3462"
+             x="977.31689"
+             height="32.577633"
+             width="3.4368625"
+             id="rect25508-9-68-7-4-5-3-0"
+             style="opacity:1;fill:#3778da;fill-opacity:1;stroke:none;stroke-width:1.71181464;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" />
+          <rect
+             inkscape:export-ydpi="96"
+             inkscape:export-xdpi="96"
+             inkscape:export-filename="C:\Users\Casper\Desktop\Yeni klasör (5)\6.png"
+             ry="0.00010498778"
+             rx="0"
+             y="3836.3469"
+             x="984.77881"
+             height="32.577633"
+             width="3.4368625"
+             id="rect25508-8-93-6-8-9-43-9"
+             style="opacity:0.475;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.81199998;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke;filter:url(#filter26069-39-7-3-6-0-3)" />
+          <rect
+             inkscape:export-ydpi="96"
+             inkscape:export-xdpi="96"
+             inkscape:export-filename="C:\Users\Casper\Desktop\Yeni klasör (5)\6.png"
+             ry="0.00010498778"
+             rx="0"
+             y="3836.3462"
+             x="984.77881"
+             height="32.577633"
+             width="3.4368625"
+             id="rect25508-9-0-00-7-3-6-73-9"
+             style="opacity:1;fill:#3778da;fill-opacity:1;stroke:none;stroke-width:1.71181464;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" />
+          <rect
+             inkscape:export-ydpi="96"
+             inkscape:export-xdpi="96"
+             inkscape:export-filename="C:\Users\Casper\Desktop\Yeni klasör (5)\6.png"
+             ry="0.00010498778"
+             rx="0"
+             y="3836.3469"
+             x="992.79004"
+             height="32.577633"
+             width="3.4368625"
+             id="rect25508-6-42-1-2-6-0-0"
+             style="opacity:0.475;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.81199998;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke;filter:url(#filter26073-62-83-6-9-3-6)" />
+          <rect
+             inkscape:export-ydpi="96"
+             inkscape:export-xdpi="96"
+             inkscape:export-filename="C:\Users\Casper\Desktop\Yeni klasör (5)\6.png"
+             ry="0.00010498778"
+             rx="0"
+             y="3836.3462"
+             x="992.79004"
+             height="32.577633"
+             width="3.4368625"
+             id="rect25508-9-8-53-5-9-3-0-5"
+             style="opacity:1;fill:#3778da;fill-opacity:1;stroke:none;stroke-width:1.71181464;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" />
+          <rect
+             inkscape:export-ydpi="96"
+             inkscape:export-xdpi="96"
+             inkscape:export-filename="C:\Users\Casper\Desktop\Yeni klasör (5)\6.png"
+             ry="0.00010498778"
+             rx="0"
+             y="3836.3469"
+             x="1000.54"
+             height="32.577633"
+             width="3.4368625"
+             id="rect25508-24-46-2-2-5-0-8"
+             style="opacity:0.475;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.81199998;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke;filter:url(#filter26077-02-6-8-7-3-0)" />
+          <rect
+             inkscape:export-ydpi="96"
+             inkscape:export-xdpi="96"
+             inkscape:export-filename="C:\Users\Casper\Desktop\Yeni klasör (5)\6.png"
+             ry="0.00010498778"
+             rx="0"
+             y="3836.3462"
+             x="1000.54"
+             height="32.577633"
+             width="3.4368625"
+             id="rect25508-9-4-82-5-4-4-1-6"
+             style="opacity:1;fill:#3778da;fill-opacity:1;stroke:none;stroke-width:1.71181464;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" />
+        </g>
+        <g
+           id="g5897-3-4"
+           transform="matrix(0.72110899,0,0,0.71221004,283.75264,1214.2792)">
+          <rect
+             transform="matrix(1.4481253,0,0,1.4479806,-504.43301,-1634.5154)"
+             inkscape:export-ydpi="92.681221"
+             inkscape:export-xdpi="92.681221"
+             inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\UI_Icon_Card_Blue.png"
+             ry="0.70037252"
+             rx="0.88105738"
+             y="3782.3298"
+             x="1073.8661"
+             height="32.577541"
+             width="32.577541"
+             id="rect25040-2-1-03-2-2-7"
+             style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.28912449;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke;filter:url(#filter25083-0-3-0-5-9-7)" />
+          <rect
+             inkscape:export-ydpi="92.681221"
+             inkscape:export-xdpi="92.681221"
+             inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\UI_Icon_Card_Blue.png"
+             ry="1.0141257"
+             rx="1.2758815"
+             y="3842.2246"
+             x="1050.6598"
+             height="47.17165"
+             width="47.176369"
+             id="rect25040-8-9-3-0-3-4-3"
+             style="opacity:1;fill:#202f8a;fill-opacity:1;stroke:none;stroke-width:1.86672044;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" />
+        </g>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.68269157px;line-height:1.25;font-family:Exo;-inkscape-font-specification:Exo;letter-spacing:0px;word-spacing:0px;fill:#d45500;fill-opacity:1;stroke:none;stroke-width:0.69206733"
+           x="1038.3682"
+           y="4001.2751"
+           id="text5780-3-1-2"
+           transform="scale(1.0064702,0.9935714)"><tspan
+             sodipodi:role="line"
+             id="tspan5778-2-0-2"
+             x="1038.3682"
+             y="4001.2751"
+             style="fill:#d45500;stroke-width:0.69206733">12</tspan></text>
+        <g
+           id="g6011-8-8"
+           transform="matrix(0.94588527,-0.43689612,0.44146469,0.93214669,-1571.5659,786.6095)">
+          <rect
+             style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.28912449;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke;filter:url(#filter25083-13-3-9-5-1-6-2)"
+             id="rect25040-1-79-7-6-1-1-4"
+             width="32.577541"
+             height="32.577541"
+             x="974.4751"
+             y="3836.3469"
+             rx="0.88105738"
+             ry="0.70037252"
+             inkscape:export-filename="C:\Users\Casper\Desktop\Yeni klasör (5)\6.png"
+             inkscape:export-xdpi="96"
+             inkscape:export-ydpi="96" />
+          <rect
+             style="opacity:1;fill:#202f8a;fill-opacity:1;stroke:none;stroke-width:1.28912449;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+             id="rect25040-8-94-9-3-7-7-2-1"
+             width="32.577545"
+             height="32.577545"
+             x="974.4751"
+             y="3836.3462"
+             rx="0.88105738"
+             ry="0.70037252"
+             inkscape:export-filename="C:\Users\Casper\Desktop\Yeni klasör (5)\6.png"
+             inkscape:export-xdpi="96"
+             inkscape:export-ydpi="96" />
+          <rect
+             style="opacity:0.475;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.81199998;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke;filter:url(#filter26065-67-8-0-2-4-3-6)"
+             id="rect25508-13-0-4-7-4-2-1"
+             width="3.4368625"
+             height="32.577633"
+             x="977.31689"
+             y="3836.3469"
+             rx="0"
+             ry="0.00010498778"
+             inkscape:export-filename="C:\Users\Casper\Desktop\Yeni klasör (5)\6.png"
+             inkscape:export-xdpi="96"
+             inkscape:export-ydpi="96" />
+          <rect
+             style="opacity:1;fill:#c83737;fill-opacity:1;stroke:none;stroke-width:1.71181464;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+             id="rect25508-1-64-0-2-4-4-0-7"
+             width="3.4368625"
+             height="32.577633"
+             x="984.77881"
+             y="3836.3462"
+             rx="0"
+             ry="0.00010498778"
+             inkscape:export-filename="C:\Users\Casper\Desktop\Yeni klasör (5)\6.png"
+             inkscape:export-xdpi="96"
+             inkscape:export-ydpi="96" />
+          <rect
+             style="opacity:1;fill:#c83737;fill-opacity:1;stroke:none;stroke-width:1.71181464;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+             id="rect25508-2-7-9-4-9-0-0-4"
+             width="3.4368625"
+             height="32.577633"
+             x="992.79004"
+             y="3836.3462"
+             rx="0"
+             ry="0.00010498778"
+             inkscape:export-filename="C:\Users\Casper\Desktop\Yeni klasör (5)\6.png"
+             inkscape:export-xdpi="96"
+             inkscape:export-ydpi="96" />
+          <rect
+             style="opacity:1;fill:#c83737;fill-opacity:1;stroke:none;stroke-width:1.71181464;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+             id="rect25508-5-82-2-5-8-5-5-0"
+             width="3.4368625"
+             height="32.577633"
+             x="1000.54"
+             y="3836.3462"
+             rx="0"
+             ry="0.00010498778"
+             inkscape:export-filename="C:\Users\Casper\Desktop\Yeni klasör (5)\6.png"
+             inkscape:export-xdpi="96"
+             inkscape:export-ydpi="96" />
+          <rect
+             style="opacity:1;fill:#3778da;fill-opacity:1;stroke:none;stroke-width:1.71181464;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+             id="rect25508-9-68-7-4-5-0-6-1"
+             width="3.4368625"
+             height="32.577633"
+             x="977.31689"
+             y="3836.3462"
+             rx="0"
+             ry="0.00010498778"
+             inkscape:export-filename="C:\Users\Casper\Desktop\Yeni klasör (5)\6.png"
+             inkscape:export-xdpi="96"
+             inkscape:export-ydpi="96" />
+          <rect
+             style="opacity:0.475;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.81199998;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke;filter:url(#filter26069-39-7-3-6-4-1-6)"
+             id="rect25508-8-93-6-8-9-4-2-8"
+             width="3.4368625"
+             height="32.577633"
+             x="984.77881"
+             y="3836.3469"
+             rx="0"
+             ry="0.00010498778"
+             inkscape:export-filename="C:\Users\Casper\Desktop\Yeni klasör (5)\6.png"
+             inkscape:export-xdpi="96"
+             inkscape:export-ydpi="96" />
+          <rect
+             style="opacity:1;fill:#3778da;fill-opacity:1;stroke:none;stroke-width:1.71181464;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+             id="rect25508-9-0-00-7-3-6-7-1-1"
+             width="3.4368625"
+             height="32.577633"
+             x="984.77881"
+             y="3836.3462"
+             rx="0"
+             ry="0.00010498778"
+             inkscape:export-filename="C:\Users\Casper\Desktop\Yeni klasör (5)\6.png"
+             inkscape:export-xdpi="96"
+             inkscape:export-ydpi="96" />
+          <rect
+             style="opacity:0.475;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.81199998;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke;filter:url(#filter26073-62-83-6-9-9-7-3)"
+             id="rect25508-6-42-1-2-6-2-5-8"
+             width="3.4368625"
+             height="32.577633"
+             x="992.79004"
+             y="3836.3469"
+             rx="0"
+             ry="0.00010498778"
+             inkscape:export-filename="C:\Users\Casper\Desktop\Yeni klasör (5)\6.png"
+             inkscape:export-xdpi="96"
+             inkscape:export-ydpi="96" />
+          <rect
+             style="opacity:1;fill:#3778da;fill-opacity:1;stroke:none;stroke-width:1.71181464;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+             id="rect25508-9-8-53-5-9-3-8-4-6"
+             width="3.4368625"
+             height="32.577633"
+             x="992.79004"
+             y="3836.3462"
+             rx="0"
+             ry="0.00010498778"
+             inkscape:export-filename="C:\Users\Casper\Desktop\Yeni klasör (5)\6.png"
+             inkscape:export-xdpi="96"
+             inkscape:export-ydpi="96" />
+          <rect
+             style="opacity:0.475;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.81199998;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke;filter:url(#filter26077-02-6-8-7-9-3-3)"
+             id="rect25508-24-46-2-2-5-9-1-9"
+             width="3.4368625"
+             height="32.577633"
+             x="1000.54"
+             y="3836.3469"
+             rx="0"
+             ry="0.00010498778"
+             inkscape:export-filename="C:\Users\Casper\Desktop\Yeni klasör (5)\6.png"
+             inkscape:export-xdpi="96"
+             inkscape:export-ydpi="96" />
+          <rect
+             style="opacity:1;fill:#3778da;fill-opacity:1;stroke:none;stroke-width:1.71181464;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+             id="rect25508-9-4-82-5-4-4-0-3-3"
+             width="3.4368625"
+             height="32.577633"
+             x="1000.54"
+             y="3836.3462"
+             rx="0"
+             ry="0.00010498778"
+             inkscape:export-filename="C:\Users\Casper\Desktop\Yeni klasör (5)\6.png"
+             inkscape:export-xdpi="96"
+             inkscape:export-ydpi="96" />
+        </g>
+        <g
+           id="g5897-4-89"
+           transform="matrix(0.61923522,0.36492481,-0.36955794,0.61159345,1830.309,1207.7617)">
+          <rect
+             transform="matrix(1.4481253,0,0,1.4479806,-504.43301,-1634.5154)"
+             inkscape:export-ydpi="92.681221"
+             inkscape:export-xdpi="92.681221"
+             inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\UI_Icon_Card_Blue.png"
+             ry="0.70037252"
+             rx="0.88105738"
+             y="3782.3298"
+             x="1073.8661"
+             height="32.577541"
+             width="32.577541"
+             id="rect25040-2-1-03-2-4-4"
+             style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.28912449;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke;filter:url(#filter25083-0-3-0-5-8-4)" />
+          <rect
+             inkscape:export-ydpi="92.681221"
+             inkscape:export-xdpi="92.681221"
+             inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\UI_Icon_Card_Blue.png"
+             ry="1.0141257"
+             rx="1.2758815"
+             y="3842.2246"
+             x="1050.6598"
+             height="47.17165"
+             width="47.176369"
+             id="rect25040-8-9-3-0-3-5-44"
+             style="opacity:1;fill:#202f8a;fill-opacity:1;stroke:none;stroke-width:1.86672044;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" />
+        </g>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.68269157px;line-height:1.25;font-family:Exo;-inkscape-font-specification:Exo;letter-spacing:0px;word-spacing:0px;fill:#d45500;fill-opacity:1;stroke:none;stroke-width:0.69206733"
+           x="2946.4822"
+           y="2892.1484"
+           id="text5780-3-19-5"
+           transform="matrix(0.86428233,0.50933482,-0.51555328,0.85320588,0,0)"><tspan
+             sodipodi:role="line"
+             id="tspan5778-2-6-2"
+             x="2946.4822"
+             y="2892.1484"
+             style="fill:#d45500;stroke-width:0.69206733">2</tspan></text>
+        <g
+           id="g5897-4-8-2"
+           transform="matrix(0.67367258,-0.25057464,0.24172197,0.67245082,-654.03005,1628.0594)">
+          <rect
+             transform="matrix(1.4392881,0.17741207,-0.17533315,1.4352589,237.64484,-1777.3796)"
+             inkscape:export-ydpi="92.681221"
+             inkscape:export-xdpi="92.681221"
+             inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\UI_Icon_Card_Blue.png"
+             ry="0.70037252"
+             rx="0.88105738"
+             y="3782.3298"
+             x="1073.8661"
+             height="32.577541"
+             width="32.577541"
+             id="rect25040-2-1-03-2-4-7-0"
+             style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.28912449;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke;filter:url(#filter25083-0-3-0-5-8-9-0)" />
+          <rect
+             inkscape:export-ydpi="92.681221"
+             inkscape:export-xdpi="92.681221"
+             inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\UI_Icon_Card_Blue.png"
+             ry="1.0126886"
+             rx="1.2776928"
+             y="3675.8765"
+             x="1577.6667"
+             height="47.104805"
+             width="47.243343"
+             id="rect25040-8-9-3-0-3-5-4-2"
+             style="opacity:1;fill:#202f8a;fill-opacity:1;stroke:none;stroke-width:1.86672044;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+             transform="matrix(0.99248851,0.12233787,-0.12125988,0.99262079,0,0)" />
+        </g>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.68269157px;line-height:1.25;font-family:Exo;-inkscape-font-specification:Exo;letter-spacing:0px;word-spacing:0px;fill:#d45500;fill-opacity:1;stroke:none;stroke-width:0.69206733"
+           x="143.94133"
+           y="4102.4966"
+           id="text5780-3-19-9-9"
+           transform="matrix(0.97585661,-0.23261513,0.22045277,0.97219135,0,0)"><tspan
+             sodipodi:role="line"
+             id="tspan5778-2-6-7-9"
+             x="143.94133"
+             y="4102.4966"
+             style="fill:#d45500;stroke-width:0.69206733">7</tspan></text>
+        <g
+           id="g6011-8-8-3"
+           transform="matrix(0.49443025,-0.91712369,0.91253332,0.48069894,-2959.0996,3023.0291)">
+          <rect
+             style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.28912449;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke;filter:url(#filter25083-13-3-9-5-1-6-2-0)"
+             id="rect25040-1-79-7-6-1-1-4-8"
+             width="32.577541"
+             height="32.577541"
+             x="974.4751"
+             y="3836.3469"
+             rx="0.88105738"
+             ry="0.70037252"
+             inkscape:export-filename="C:\Users\Casper\Desktop\Yeni klasör (5)\6.png"
+             inkscape:export-xdpi="96"
+             inkscape:export-ydpi="96" />
+          <rect
+             style="opacity:1;fill:#202f8a;fill-opacity:1;stroke:none;stroke-width:1.28912449;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+             id="rect25040-8-94-9-3-7-7-2-1-5"
+             width="32.577545"
+             height="32.577545"
+             x="974.4751"
+             y="3836.3462"
+             rx="0.88105738"
+             ry="0.70037252"
+             inkscape:export-filename="C:\Users\Casper\Desktop\Yeni klasör (5)\6.png"
+             inkscape:export-xdpi="96"
+             inkscape:export-ydpi="96" />
+          <rect
+             style="opacity:0.475;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.81199998;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke;filter:url(#filter26065-67-8-0-2-4-3-6-6)"
+             id="rect25508-13-0-4-7-4-2-1-1"
+             width="3.4368625"
+             height="32.577633"
+             x="977.31689"
+             y="3836.3469"
+             rx="0"
+             ry="0.00010498778"
+             inkscape:export-filename="C:\Users\Casper\Desktop\Yeni klasör (5)\6.png"
+             inkscape:export-xdpi="96"
+             inkscape:export-ydpi="96" />
+          <rect
+             style="opacity:1;fill:#c83737;fill-opacity:1;stroke:none;stroke-width:1.71181464;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+             id="rect25508-1-64-0-2-4-4-0-7-8"
+             width="3.4368625"
+             height="32.577633"
+             x="984.77881"
+             y="3836.3462"
+             rx="0"
+             ry="0.00010498778"
+             inkscape:export-filename="C:\Users\Casper\Desktop\Yeni klasör (5)\6.png"
+             inkscape:export-xdpi="96"
+             inkscape:export-ydpi="96" />
+          <rect
+             style="opacity:1;fill:#c83737;fill-opacity:1;stroke:none;stroke-width:1.71181464;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+             id="rect25508-2-7-9-4-9-0-0-4-6"
+             width="3.4368625"
+             height="32.577633"
+             x="992.79004"
+             y="3836.3462"
+             rx="0"
+             ry="0.00010498778"
+             inkscape:export-filename="C:\Users\Casper\Desktop\Yeni klasör (5)\6.png"
+             inkscape:export-xdpi="96"
+             inkscape:export-ydpi="96" />
+          <rect
+             style="opacity:1;fill:#c83737;fill-opacity:1;stroke:none;stroke-width:1.71181464;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+             id="rect25508-5-82-2-5-8-5-5-0-4"
+             width="3.4368625"
+             height="32.577633"
+             x="1000.54"
+             y="3836.3462"
+             rx="0"
+             ry="0.00010498778"
+             inkscape:export-filename="C:\Users\Casper\Desktop\Yeni klasör (5)\6.png"
+             inkscape:export-xdpi="96"
+             inkscape:export-ydpi="96" />
+          <rect
+             style="opacity:1;fill:#3778da;fill-opacity:1;stroke:none;stroke-width:1.71181464;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+             id="rect25508-9-68-7-4-5-0-6-1-5"
+             width="3.4368625"
+             height="32.577633"
+             x="977.31689"
+             y="3836.3462"
+             rx="0"
+             ry="0.00010498778"
+             inkscape:export-filename="C:\Users\Casper\Desktop\Yeni klasör (5)\6.png"
+             inkscape:export-xdpi="96"
+             inkscape:export-ydpi="96" />
+          <rect
+             style="opacity:0.475;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.81199998;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke;filter:url(#filter26069-39-7-3-6-4-1-6-6)"
+             id="rect25508-8-93-6-8-9-4-2-8-0"
+             width="3.4368625"
+             height="32.577633"
+             x="984.77881"
+             y="3836.3469"
+             rx="0"
+             ry="0.00010498778"
+             inkscape:export-filename="C:\Users\Casper\Desktop\Yeni klasör (5)\6.png"
+             inkscape:export-xdpi="96"
+             inkscape:export-ydpi="96" />
+          <rect
+             style="opacity:1;fill:#3778da;fill-opacity:1;stroke:none;stroke-width:1.71181464;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+             id="rect25508-9-0-00-7-3-6-7-1-1-5"
+             width="3.4368625"
+             height="32.577633"
+             x="984.77881"
+             y="3836.3462"
+             rx="0"
+             ry="0.00010498778"
+             inkscape:export-filename="C:\Users\Casper\Desktop\Yeni klasör (5)\6.png"
+             inkscape:export-xdpi="96"
+             inkscape:export-ydpi="96" />
+          <rect
+             style="opacity:0.475;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.81199998;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke;filter:url(#filter26073-62-83-6-9-9-7-3-5)"
+             id="rect25508-6-42-1-2-6-2-5-8-7"
+             width="3.4368625"
+             height="32.577633"
+             x="992.79004"
+             y="3836.3469"
+             rx="0"
+             ry="0.00010498778"
+             inkscape:export-filename="C:\Users\Casper\Desktop\Yeni klasör (5)\6.png"
+             inkscape:export-xdpi="96"
+             inkscape:export-ydpi="96" />
+          <rect
+             style="opacity:1;fill:#3778da;fill-opacity:1;stroke:none;stroke-width:1.71181464;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+             id="rect25508-9-8-53-5-9-3-8-4-6-3"
+             width="3.4368625"
+             height="32.577633"
+             x="992.79004"
+             y="3836.3462"
+             rx="0"
+             ry="0.00010498778"
+             inkscape:export-filename="C:\Users\Casper\Desktop\Yeni klasör (5)\6.png"
+             inkscape:export-xdpi="96"
+             inkscape:export-ydpi="96" />
+          <rect
+             style="opacity:0.475;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.81199998;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke;filter:url(#filter26077-02-6-8-7-9-3-3-9)"
+             id="rect25508-24-46-2-2-5-9-1-9-7"
+             width="3.4368625"
+             height="32.577633"
+             x="1000.54"
+             y="3836.3469"
+             rx="0"
+             ry="0.00010498778"
+             inkscape:export-filename="C:\Users\Casper\Desktop\Yeni klasör (5)\6.png"
+             inkscape:export-xdpi="96"
+             inkscape:export-ydpi="96" />
+          <rect
+             style="opacity:1;fill:#3778da;fill-opacity:1;stroke:none;stroke-width:1.71181464;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+             id="rect25508-9-4-82-5-4-4-0-3-3-6"
+             width="3.4368625"
+             height="32.577633"
+             x="1000.54"
+             y="3836.3462"
+             rx="0"
+             ry="0.00010498778"
+             inkscape:export-filename="C:\Users\Casper\Desktop\Yeni klasör (5)\6.png"
+             inkscape:export-xdpi="96"
+             inkscape:export-ydpi="96" />
+        </g>
+        <g
+           id="g5897-4-8-8-4"
+           transform="matrix(0.71648979,0.05713818,-0.06464826,0.71164613,476.59225,1147.4359)">
+          <rect
+             transform="matrix(1.4392881,0.17741207,-0.17533315,1.4352589,245.97583,-1772.2459)"
+             inkscape:export-ydpi="92.681221"
+             inkscape:export-xdpi="92.681221"
+             inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\UI_Icon_Card_Blue.png"
+             ry="0.70037252"
+             rx="0.88105738"
+             y="3782.3298"
+             x="1073.8661"
+             height="32.577541"
+             width="32.577541"
+             id="rect25040-2-1-03-2-4-7-4-3"
+             style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.28912449;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke;filter:url(#filter25083-0-3-0-5-8-9-2-2)" />
+          <rect
+             inkscape:export-ydpi="92.681221"
+             inkscape:export-xdpi="92.681221"
+             inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\UI_Icon_Card_Blue.png"
+             ry="1.0126886"
+             rx="1.2776928"
+             y="3679.9524"
+             x="1586.5587"
+             height="47.104805"
+             width="47.243343"
+             id="rect25040-8-9-3-0-3-5-4-6-6"
+             style="opacity:1;fill:#202f8a;fill-opacity:1;stroke:none;stroke-width:1.86672044;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+             transform="matrix(0.99248851,0.12233787,-0.12125988,0.99262079,0,0)" />
+        </g>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.68269157px;line-height:1.25;font-family:Exo;-inkscape-font-specification:Exo;letter-spacing:0px;word-spacing:0px;fill:#d45500;fill-opacity:1;stroke:none;stroke-width:0.69206733"
+           x="1850.4738"
+           y="3700.3501"
+           id="text5780-3-19-9-0-9"
+           transform="matrix(0.98286599,0.20094864,-0.21042804,0.97441033,0,0)"><tspan
+             sodipodi:role="line"
+             id="tspan5778-2-6-7-5-7"
+             x="1850.4738"
+             y="3700.3501"
+             style="fill:#d45500;stroke-width:0.69206733">5</tspan></text>
+      </g>
     </g>
   </g>
 </svg>
