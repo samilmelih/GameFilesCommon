@@ -6087,6 +6087,318 @@
          stdDeviation="0.90141408"
          id="feGaussianBlur6790" />
     </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter25083-0-3-0"
+       x="-0.038400002"
+       width="1.0768"
+       y="-0.038400002"
+       height="1.0768">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.52124066"
+         id="feGaussianBlur25085-5-5-4" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter26077-02-6-8-7"
+       x="-0.37229684"
+       width="1.7445937"
+       y="-0.039276429"
+       height="1.0785528">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.53313876"
+         id="feGaussianBlur26079-44-5-4-9" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter26073-62-83-6-9"
+       x="-0.37229684"
+       width="1.7445937"
+       y="-0.039276429"
+       height="1.0785528">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.53313876"
+         id="feGaussianBlur26075-92-7-1-2" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter26069-39-7-3-6"
+       x="-0.37229684"
+       width="1.7445937"
+       y="-0.039276429"
+       height="1.0785528">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.53313876"
+         id="feGaussianBlur26071-4-9-5-3" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter26065-67-8-0-2"
+       x="-0.37229684"
+       width="1.7445937"
+       y="-0.039276429"
+       height="1.0785528">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.53313876"
+         id="feGaussianBlur26067-59-6-0-2" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter25083-13-3-9-5"
+       x="-0.038400002"
+       width="1.0768"
+       y="-0.038400002"
+       height="1.0768">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.52124066"
+         id="feGaussianBlur25085-4-6-8-7" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter25083-0-3-0-5"
+       x="-0.038400002"
+       width="1.0768"
+       y="-0.038400002"
+       height="1.0768">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.52124066"
+         id="feGaussianBlur25085-5-5-4-7" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter25083-13-3-9-5-1"
+       x="-0.038400002"
+       width="1.0768"
+       y="-0.038400002"
+       height="1.0768">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.52124066"
+         id="feGaussianBlur25085-4-6-8-7-7" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter26065-67-8-0-2-4"
+       x="-0.37229684"
+       width="1.7445937"
+       y="-0.039276429"
+       height="1.0785528">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.53313876"
+         id="feGaussianBlur26067-59-6-0-2-7" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter26069-39-7-3-6-4"
+       x="-0.37229684"
+       width="1.7445937"
+       y="-0.039276429"
+       height="1.0785528">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.53313876"
+         id="feGaussianBlur26071-4-9-5-3-9" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter26073-62-83-6-9-9"
+       x="-0.37229684"
+       width="1.7445937"
+       y="-0.039276429"
+       height="1.0785528">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.53313876"
+         id="feGaussianBlur26075-92-7-1-2-7" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter26077-02-6-8-7-9"
+       x="-0.37229684"
+       width="1.7445937"
+       y="-0.039276429"
+       height="1.0785528">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.53313876"
+         id="feGaussianBlur26079-44-5-4-9-9" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter25083-13-3-9-5-11"
+       x="-0.038400002"
+       width="1.0768"
+       y="-0.038400002"
+       height="1.0768">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.52124066"
+         id="feGaussianBlur25085-4-6-8-7-5" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter26065-67-8-0-2-7"
+       x="-0.37229684"
+       width="1.7445937"
+       y="-0.039276429"
+       height="1.0785528">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.53313876"
+         id="feGaussianBlur26067-59-6-0-2-5" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter26069-39-7-3-6-0"
+       x="-0.37229684"
+       width="1.7445937"
+       y="-0.039276429"
+       height="1.0785528">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.53313876"
+         id="feGaussianBlur26071-4-9-5-3-7" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter26073-62-83-6-9-3"
+       x="-0.37229684"
+       width="1.7445937"
+       y="-0.039276429"
+       height="1.0785528">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.53313876"
+         id="feGaussianBlur26075-92-7-1-2-8" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter26077-02-6-8-7-3"
+       x="-0.37229684"
+       width="1.7445937"
+       y="-0.039276429"
+       height="1.0785528">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.53313876"
+         id="feGaussianBlur26079-44-5-4-9-6" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter25083-13-3-9-5-1-6"
+       x="-0.038400002"
+       width="1.0768"
+       y="-0.038400002"
+       height="1.0768">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.52124066"
+         id="feGaussianBlur25085-4-6-8-7-7-4" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter26065-67-8-0-2-4-3"
+       x="-0.37229684"
+       width="1.7445937"
+       y="-0.039276429"
+       height="1.0785528">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.53313876"
+         id="feGaussianBlur26067-59-6-0-2-7-8" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter26069-39-7-3-6-4-1"
+       x="-0.37229684"
+       width="1.7445937"
+       y="-0.039276429"
+       height="1.0785528">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.53313876"
+         id="feGaussianBlur26071-4-9-5-3-9-0" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter26073-62-83-6-9-9-7"
+       x="-0.37229684"
+       width="1.7445937"
+       y="-0.039276429"
+       height="1.0785528">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.53313876"
+         id="feGaussianBlur26075-92-7-1-2-7-8" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter26077-02-6-8-7-9-3"
+       x="-0.37229684"
+       width="1.7445937"
+       y="-0.039276429"
+       height="1.0785528">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.53313876"
+         id="feGaussianBlur26079-44-5-4-9-9-1" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter25083-0-3-0-5-9"
+       x="-0.038400002"
+       width="1.0768"
+       y="-0.038400002"
+       height="1.0768">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.52124066"
+         id="feGaussianBlur25085-5-5-4-7-6" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter25083-0-3-0-5-8"
+       x="-0.038400002"
+       width="1.0768"
+       y="-0.038400002"
+       height="1.0768">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.52124066"
+         id="feGaussianBlur25085-5-5-4-7-3" />
+    </filter>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -6095,9 +6407,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.75960164"
-     inkscape:cx="1608.8171"
-     inkscape:cy="-13725.604"
+     inkscape:zoom="1.5192033"
+     inkscape:cx="3974.2133"
+     inkscape:cy="-13611.305"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -16952,115 +17264,7 @@
        y="3275.9246"
        x="514.07898"
        id="image6328"
-       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAhwAAAIcCAMAAACKIIdOAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
-jwv8YQUAAAMAUExURQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMwAAZgAAmQAAzAAA/wAzAAAzMwAzZgAzmQAzzAAz/wBm
-AABmMwBmZgBmmQBmzABm/wCZAACZMwCZZgCZmQCZzACZ/wDMAADMMwDMZgDMmQDMzADM/wD/AAD/
-MwD/ZgD/mQD/zAD//zMAADMAMzMAZjMAmTMAzDMA/zMzADMzMzMzZjMzmTMzzDMz/zNmADNmMzNm
-ZjNmmTNmzDNm/zOZADOZMzOZZjOZmTOZzDOZ/zPMADPMMzPMZjPMmTPMzDPM/zP/ADP/MzP/ZjP/
-mTP/zDP//2YAAGYAM2YAZmYAmWYAzGYA/2YzAGYzM2YzZmYzmWYzzGYz/2ZmAGZmM2ZmZmZmmWZm
-zGZm/2aZAGaZM2aZZmaZmWaZzGaZ/2bMAGbMM2bMZmbMmWbMzGbM/2b/AGb/M2b/Zmb/mWb/zGb/
-/5kAAJkAM5kAZpkAmZkAzJkA/5kzAJkzM5kzZpkzmZkzzJkz/5lmAJlmM5lmZplmmZlmzJlm/5mZ
-AJmZM5mZZpmZmZmZzJmZ/5nMAJnMM5nMZpnMmZnMzJnM/5n/AJn/M5n/Zpn/mZn/zJn//8wAAMwA
-M8wAZswAmcwAzMwA/8wzAMwzM8wzZswzmcwzzMwz/8xmAMxmM8xmZsxmmcxmzMxm/8yZAMyZM8yZ
-ZsyZmcyZzMyZ/8zMAMzMM8zMZszMmczMzMzM/8z/AMz/M8z/Zsz/mcz/zMz///8AAP8AM/8AZv8A
-mf8AzP8A//8zAP8zM/8zZv8zmf8zzP8z//9mAP9mM/9mZv9mmf9mzP9m//+ZAP+ZM/+ZZv+Zmf+Z
-zP+Z///MAP/MM//MZv/Mmf/MzP/M////AP//M///Zv//mf//zP///69WTRwAAAAodFJOUzW76/5p
-k9tTo3rKQ4OyYvNK0XLhw6pbmYo7AAAAAAAAAAAAAAAAAAAyHmk0AAAACXBIWXMAAA7DAAAOwwHH
-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
-QUGMgwJ2u/+XEEGomy2h/wAAAABJRU5ErkJggg==
-"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAhwAAAIcCAMAAACKIIdOAAAAAXNSR0IArs4c6QAAAARnQU1BAACx jwv8YQUAAAMAUExURQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMwAAZgAAmQAAzAAA/wAzAAAzMwAzZgAzmQAzzAAz/wBm AABmMwBmZgBmmQBmzABm/wCZAACZMwCZZgCZmQCZzACZ/wDMAADMMwDMZgDMmQDMzADM/wD/AAD/ MwD/ZgD/mQD/zAD//zMAADMAMzMAZjMAmTMAzDMA/zMzADMzMzMzZjMzmTMzzDMz/zNmADNmMzNm ZjNmmTNmzDNm/zOZADOZMzOZZjOZmTOZzDOZ/zPMADPMMzPMZjPMmTPMzDPM/zP/ADP/MzP/ZjP/ mTP/zDP//2YAAGYAM2YAZmYAmWYAzGYA/2YzAGYzM2YzZmYzmWYzzGYz/2ZmAGZmM2ZmZmZmmWZm zGZm/2aZAGaZM2aZZmaZmWaZzGaZ/2bMAGbMM2bMZmbMmWbMzGbM/2b/AGb/M2b/Zmb/mWb/zGb/ /5kAAJkAM5kAZpkAmZkAzJkA/5kzAJkzM5kzZpkzmZkzzJkz/5lmAJlmM5lmZplmmZlmzJlm/5mZ AJmZM5mZZpmZmZmZzJmZ/5nMAJnMM5nMZpnMmZnMzJnM/5n/AJn/M5n/Zpn/mZn/zJn//8wAAMwA M8wAZswAmcwAzMwA/8wzAMwzM8wzZswzmcwzzMwz/8xmAMxmM8xmZsxmmcxmzMxm/8yZAMyZM8yZ ZsyZmcyZzMyZ/8zMAMzMM8zMZszMmczMzMzM/8z/AMz/M8z/Zsz/mcz/zMz///8AAP8AM/8AZv8A mf8AzP8A//8zAP8zM/8zZv8zmf8zzP8z//9mAP9mM/9mZv9mmf9mzP9m//+ZAP+ZM/+ZZv+Zmf+Z zP+Z///MAP/MM//MZv/Mmf/MzP/M////AP//M///Zv//mf//zP///69WTRwAAAAodFJOUzW76/5p k9tTo3rKQ4OyYvNK0XLhw6pbmYo7AAAAAAAAAAAAAAAAAAAyHmk0AAAACXBIWXMAAA7DAAAOwwHH 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 QUGMgwJ2u/+XEEGomy2h/wAAAABJRU5ErkJggg== "
        style="opacity:0.7;filter:url(#filter6339);image-rendering:optimizeQuality"
        preserveAspectRatio="none"
        height="95.503677"
@@ -17233,5 +17437,825 @@ QUGMgwJ2u/+XEEGomy2h/wAAAABJRU5ErkJggg==
        inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\UI Icons\UI_Icon_Quit.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.28912449;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke;filter:url(#filter25083-0-3-0)"
+       id="rect25040-2-1-03"
+       width="32.577541"
+       height="32.577541"
+       x="1021.178"
+       y="3769.9924"
+       rx="0.88105738"
+       ry="0.70037252"
+       inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\UI_Icon_Card_Blue.png"
+       inkscape:export-xdpi="92.681221"
+       inkscape:export-ydpi="92.681221" />
+    <rect
+       style="opacity:1;fill:#202f8a;fill-opacity:1;stroke:none;stroke-width:1.28912449;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect25040-8-9-3-0"
+       width="32.577545"
+       height="32.577545"
+       x="1021.178"
+       y="3769.9924"
+       rx="0.88105738"
+       ry="0.70037252"
+       inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\UI_Icon_Card_Blue.png"
+       inkscape:export-xdpi="92.681221"
+       inkscape:export-ydpi="92.681221" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.67413521px;line-height:1.25;font-family:Exo;-inkscape-font-specification:Exo;letter-spacing:0px;word-spacing:0px;fill:#d45500;fill-opacity:1;stroke:none;stroke-width:0.66685337"
+       x="1028.9291"
+       y="3795.2729"
+       id="text5780"><tspan
+         sodipodi:role="line"
+         id="tspan5778"
+         x="1028.9291"
+         y="3795.2729"
+         style="fill:#d45500;stroke-width:0.66685337">5</tspan></text>
+    <g
+       id="g5912"
+       transform="translate(-30.477872,-72.798574)">
+      <rect
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\Casper\Desktop\Yeni klasör (5)\6.png"
+         ry="0.70037252"
+         rx="0.88105738"
+         y="3836.3469"
+         x="974.4751"
+         height="32.577541"
+         width="32.577541"
+         id="rect25040-1-79-7-6"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.28912449;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke;filter:url(#filter25083-13-3-9-5)" />
+      <rect
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\Casper\Desktop\Yeni klasör (5)\6.png"
+         ry="0.70037252"
+         rx="0.88105738"
+         y="3836.3462"
+         x="974.4751"
+         height="32.577545"
+         width="32.577545"
+         id="rect25040-8-94-9-3-7"
+         style="opacity:1;fill:#202f8a;fill-opacity:1;stroke:none;stroke-width:1.28912449;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" />
+      <rect
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\Casper\Desktop\Yeni klasör (5)\6.png"
+         ry="0.00010498778"
+         rx="0"
+         y="3836.3469"
+         x="977.31689"
+         height="32.577633"
+         width="3.4368625"
+         id="rect25508-13-0-4-7"
+         style="opacity:0.475;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.81199998;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke;filter:url(#filter26065-67-8-0-2)" />
+      <rect
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\Casper\Desktop\Yeni klasör (5)\6.png"
+         ry="0.00010498778"
+         rx="0"
+         y="3836.3462"
+         x="984.77881"
+         height="32.577633"
+         width="3.4368625"
+         id="rect25508-1-64-0-2-4"
+         style="opacity:1;fill:#c83737;fill-opacity:1;stroke:none;stroke-width:1.71181464;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" />
+      <rect
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\Casper\Desktop\Yeni klasör (5)\6.png"
+         ry="0.00010498778"
+         rx="0"
+         y="3836.3462"
+         x="992.79004"
+         height="32.577633"
+         width="3.4368625"
+         id="rect25508-2-7-9-4-9"
+         style="opacity:1;fill:#c83737;fill-opacity:1;stroke:none;stroke-width:1.71181464;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" />
+      <rect
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\Casper\Desktop\Yeni klasör (5)\6.png"
+         ry="0.00010498778"
+         rx="0"
+         y="3836.3462"
+         x="1000.54"
+         height="32.577633"
+         width="3.4368625"
+         id="rect25508-5-82-2-5-8"
+         style="opacity:1;fill:#c83737;fill-opacity:1;stroke:none;stroke-width:1.71181464;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" />
+      <rect
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\Casper\Desktop\Yeni klasör (5)\6.png"
+         ry="0.00010498778"
+         rx="0"
+         y="3836.3462"
+         x="977.31689"
+         height="32.577633"
+         width="3.4368625"
+         id="rect25508-9-68-7-4-5"
+         style="opacity:1;fill:#3778da;fill-opacity:1;stroke:none;stroke-width:1.71181464;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" />
+      <rect
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\Casper\Desktop\Yeni klasör (5)\6.png"
+         ry="0.00010498778"
+         rx="0"
+         y="3836.3469"
+         x="984.77881"
+         height="32.577633"
+         width="3.4368625"
+         id="rect25508-8-93-6-8-9"
+         style="opacity:0.475;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.81199998;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke;filter:url(#filter26069-39-7-3-6)" />
+      <rect
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\Casper\Desktop\Yeni klasör (5)\6.png"
+         ry="0.00010498778"
+         rx="0"
+         y="3836.3462"
+         x="984.77881"
+         height="32.577633"
+         width="3.4368625"
+         id="rect25508-9-0-00-7-3-6"
+         style="opacity:1;fill:#3778da;fill-opacity:1;stroke:none;stroke-width:1.71181464;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" />
+      <rect
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\Casper\Desktop\Yeni klasör (5)\6.png"
+         ry="0.00010498778"
+         rx="0"
+         y="3836.3469"
+         x="992.79004"
+         height="32.577633"
+         width="3.4368625"
+         id="rect25508-6-42-1-2-6"
+         style="opacity:0.475;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.81199998;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke;filter:url(#filter26073-62-83-6-9)" />
+      <rect
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\Casper\Desktop\Yeni klasör (5)\6.png"
+         ry="0.00010498778"
+         rx="0"
+         y="3836.3462"
+         x="992.79004"
+         height="32.577633"
+         width="3.4368625"
+         id="rect25508-9-8-53-5-9-3"
+         style="opacity:1;fill:#3778da;fill-opacity:1;stroke:none;stroke-width:1.71181464;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" />
+      <rect
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\Casper\Desktop\Yeni klasör (5)\6.png"
+         ry="0.00010498778"
+         rx="0"
+         y="3836.3469"
+         x="1000.54"
+         height="32.577633"
+         width="3.4368625"
+         id="rect25508-24-46-2-2-5"
+         style="opacity:0.475;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.81199998;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke;filter:url(#filter26077-02-6-8-7)" />
+      <rect
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="C:\Users\Casper\Desktop\Yeni klasör (5)\6.png"
+         ry="0.00010498778"
+         rx="0"
+         y="3836.3462"
+         x="1000.54"
+         height="32.577633"
+         width="3.4368625"
+         id="rect25508-9-4-82-5-4-4"
+         style="opacity:1;fill:#3778da;fill-opacity:1;stroke:none;stroke-width:1.71181464;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" />
+    </g>
+    <rect
+       style="opacity:1;fill:#d45500;fill-opacity:1;stroke:none;stroke-width:3.27838421;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect5863"
+       width="50.799999"
+       height="50.799999"
+       x="1073.8661"
+       y="3782.3298"
+       ry="0" />
+    <g
+       id="g5897"
+       transform="matrix(1.0000101,0,0,1.0001095,-100.04617,-38.856338)">
+      <rect
+         transform="matrix(1.4481253,0,0,1.4479806,-504.43301,-1634.5154)"
+         inkscape:export-ydpi="92.681221"
+         inkscape:export-xdpi="92.681221"
+         inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\UI_Icon_Card_Blue.png"
+         ry="0.70037252"
+         rx="0.88105738"
+         y="3782.3298"
+         x="1073.8661"
+         height="32.577541"
+         width="32.577541"
+         id="rect25040-2-1-03-2"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.28912449;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke;filter:url(#filter25083-0-3-0-5)" />
+      <rect
+         inkscape:export-ydpi="92.681221"
+         inkscape:export-xdpi="92.681221"
+         inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\UI_Icon_Card_Blue.png"
+         ry="1.0141257"
+         rx="1.2758815"
+         y="3842.2246"
+         x="1050.6598"
+         height="47.17165"
+         width="47.176369"
+         id="rect25040-8-9-3-0-3"
+         style="opacity:1;fill:#202f8a;fill-opacity:1;stroke:none;stroke-width:1.86672044;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:38.6304512px;line-height:1.25;font-family:Exo;-inkscape-font-specification:Exo;letter-spacing:0px;word-spacing:0px;fill:#d45500;fill-opacity:1;stroke:none;stroke-width:0.9657613"
+       x="963.58356"
+       y="3841.3071"
+       id="text5780-3"
+       transform="scale(1.0001909,0.99980913)"><tspan
+         sodipodi:role="line"
+         id="tspan5778-2"
+         x="963.58356"
+         y="3841.3071"
+         style="fill:#d45500;stroke-width:0.9657613">2</tspan></text>
+    <g
+       id="g5912-7"
+       transform="matrix(1.4481033,0,0,1.4450449,-496.44207,-1749.1781)">
+      <g
+         id="g6011"
+         transform="matrix(0.905821,-0.42455729,0.42276585,0.905821,-1554.4559,806.13149)">
+        <rect
+           style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.28912449;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke;filter:url(#filter25083-13-3-9-5-1)"
+           id="rect25040-1-79-7-6-1"
+           width="32.577541"
+           height="32.577541"
+           x="974.4751"
+           y="3836.3469"
+           rx="0.88105738"
+           ry="0.70037252"
+           inkscape:export-filename="C:\Users\Casper\Desktop\Yeni klasör (5)\6.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <rect
+           style="opacity:1;fill:#202f8a;fill-opacity:1;stroke:none;stroke-width:1.28912449;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+           id="rect25040-8-94-9-3-7-7"
+           width="32.577545"
+           height="32.577545"
+           x="974.4751"
+           y="3836.3462"
+           rx="0.88105738"
+           ry="0.70037252"
+           inkscape:export-filename="C:\Users\Casper\Desktop\Yeni klasör (5)\6.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <rect
+           style="opacity:0.475;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.81199998;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke;filter:url(#filter26065-67-8-0-2-4)"
+           id="rect25508-13-0-4-7-4"
+           width="3.4368625"
+           height="32.577633"
+           x="977.31689"
+           y="3836.3469"
+           rx="0"
+           ry="0.00010498778"
+           inkscape:export-filename="C:\Users\Casper\Desktop\Yeni klasör (5)\6.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <rect
+           style="opacity:1;fill:#c83737;fill-opacity:1;stroke:none;stroke-width:1.71181464;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+           id="rect25508-1-64-0-2-4-4"
+           width="3.4368625"
+           height="32.577633"
+           x="984.77881"
+           y="3836.3462"
+           rx="0"
+           ry="0.00010498778"
+           inkscape:export-filename="C:\Users\Casper\Desktop\Yeni klasör (5)\6.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <rect
+           style="opacity:1;fill:#c83737;fill-opacity:1;stroke:none;stroke-width:1.71181464;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+           id="rect25508-2-7-9-4-9-0"
+           width="3.4368625"
+           height="32.577633"
+           x="992.79004"
+           y="3836.3462"
+           rx="0"
+           ry="0.00010498778"
+           inkscape:export-filename="C:\Users\Casper\Desktop\Yeni klasör (5)\6.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <rect
+           style="opacity:1;fill:#c83737;fill-opacity:1;stroke:none;stroke-width:1.71181464;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+           id="rect25508-5-82-2-5-8-5"
+           width="3.4368625"
+           height="32.577633"
+           x="1000.54"
+           y="3836.3462"
+           rx="0"
+           ry="0.00010498778"
+           inkscape:export-filename="C:\Users\Casper\Desktop\Yeni klasör (5)\6.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <rect
+           style="opacity:1;fill:#3778da;fill-opacity:1;stroke:none;stroke-width:1.71181464;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+           id="rect25508-9-68-7-4-5-0"
+           width="3.4368625"
+           height="32.577633"
+           x="977.31689"
+           y="3836.3462"
+           rx="0"
+           ry="0.00010498778"
+           inkscape:export-filename="C:\Users\Casper\Desktop\Yeni klasör (5)\6.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <rect
+           style="opacity:0.475;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.81199998;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke;filter:url(#filter26069-39-7-3-6-4)"
+           id="rect25508-8-93-6-8-9-4"
+           width="3.4368625"
+           height="32.577633"
+           x="984.77881"
+           y="3836.3469"
+           rx="0"
+           ry="0.00010498778"
+           inkscape:export-filename="C:\Users\Casper\Desktop\Yeni klasör (5)\6.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <rect
+           style="opacity:1;fill:#3778da;fill-opacity:1;stroke:none;stroke-width:1.71181464;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+           id="rect25508-9-0-00-7-3-6-7"
+           width="3.4368625"
+           height="32.577633"
+           x="984.77881"
+           y="3836.3462"
+           rx="0"
+           ry="0.00010498778"
+           inkscape:export-filename="C:\Users\Casper\Desktop\Yeni klasör (5)\6.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <rect
+           style="opacity:0.475;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.81199998;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke;filter:url(#filter26073-62-83-6-9-9)"
+           id="rect25508-6-42-1-2-6-2"
+           width="3.4368625"
+           height="32.577633"
+           x="992.79004"
+           y="3836.3469"
+           rx="0"
+           ry="0.00010498778"
+           inkscape:export-filename="C:\Users\Casper\Desktop\Yeni klasör (5)\6.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <rect
+           style="opacity:1;fill:#3778da;fill-opacity:1;stroke:none;stroke-width:1.71181464;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+           id="rect25508-9-8-53-5-9-3-8"
+           width="3.4368625"
+           height="32.577633"
+           x="992.79004"
+           y="3836.3462"
+           rx="0"
+           ry="0.00010498778"
+           inkscape:export-filename="C:\Users\Casper\Desktop\Yeni klasör (5)\6.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <rect
+           style="opacity:0.475;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.81199998;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke;filter:url(#filter26077-02-6-8-7-9)"
+           id="rect25508-24-46-2-2-5-9"
+           width="3.4368625"
+           height="32.577633"
+           x="1000.54"
+           y="3836.3469"
+           rx="0"
+           ry="0.00010498778"
+           inkscape:export-filename="C:\Users\Casper\Desktop\Yeni klasör (5)\6.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <rect
+           style="opacity:1;fill:#3778da;fill-opacity:1;stroke:none;stroke-width:1.71181464;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+           id="rect25508-9-4-82-5-4-4-0"
+           width="3.4368625"
+           height="32.577633"
+           x="1000.54"
+           y="3836.3462"
+           rx="0"
+           ry="0.00010498778"
+           inkscape:export-filename="C:\Users\Casper\Desktop\Yeni klasör (5)\6.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+      </g>
+    </g>
+    <g
+       id="g5912-7-7"
+       transform="matrix(1.4481033,0,0,1.4450449,-342.56416,-1714.5186)" />
+    <g
+       id="g6409"
+       transform="matrix(1.137769,0,0,1.1236165,-162.96182,-472.97282)"
+       inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\UI Icons\UI_Icon_Game_192.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <g
+         transform="matrix(0.9668402,0.26507034,-0.26507034,0.9668402,1127.5356,-96.309991)"
+         id="g5912-8">
+        <rect
+           style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.28912449;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke;filter:url(#filter25083-13-3-9-5-11)"
+           id="rect25040-1-79-7-6-4"
+           width="32.577541"
+           height="32.577541"
+           x="974.4751"
+           y="3836.3469"
+           rx="0.88105738"
+           ry="0.70037252"
+           inkscape:export-filename="C:\Users\Casper\Desktop\Yeni klasör (5)\6.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <rect
+           style="opacity:1;fill:#202f8a;fill-opacity:1;stroke:none;stroke-width:1.28912449;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+           id="rect25040-8-94-9-3-7-4"
+           width="32.577545"
+           height="32.577545"
+           x="974.4751"
+           y="3836.3462"
+           rx="0.88105738"
+           ry="0.70037252"
+           inkscape:export-filename="C:\Users\Casper\Desktop\Yeni klasör (5)\6.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <rect
+           style="opacity:0.475;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.81199998;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke;filter:url(#filter26065-67-8-0-2-7)"
+           id="rect25508-13-0-4-7-6"
+           width="3.4368625"
+           height="32.577633"
+           x="977.31689"
+           y="3836.3469"
+           rx="0"
+           ry="0.00010498778"
+           inkscape:export-filename="C:\Users\Casper\Desktop\Yeni klasör (5)\6.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <rect
+           style="opacity:1;fill:#c83737;fill-opacity:1;stroke:none;stroke-width:1.71181464;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+           id="rect25508-1-64-0-2-4-6"
+           width="3.4368625"
+           height="32.577633"
+           x="984.77881"
+           y="3836.3462"
+           rx="0"
+           ry="0.00010498778"
+           inkscape:export-filename="C:\Users\Casper\Desktop\Yeni klasör (5)\6.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <rect
+           style="opacity:1;fill:#c83737;fill-opacity:1;stroke:none;stroke-width:1.71181464;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+           id="rect25508-2-7-9-4-9-4"
+           width="3.4368625"
+           height="32.577633"
+           x="992.79004"
+           y="3836.3462"
+           rx="0"
+           ry="0.00010498778"
+           inkscape:export-filename="C:\Users\Casper\Desktop\Yeni klasör (5)\6.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <rect
+           style="opacity:1;fill:#c83737;fill-opacity:1;stroke:none;stroke-width:1.71181464;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+           id="rect25508-5-82-2-5-8-7"
+           width="3.4368625"
+           height="32.577633"
+           x="1000.54"
+           y="3836.3462"
+           rx="0"
+           ry="0.00010498778"
+           inkscape:export-filename="C:\Users\Casper\Desktop\Yeni klasör (5)\6.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <rect
+           style="opacity:1;fill:#3778da;fill-opacity:1;stroke:none;stroke-width:1.71181464;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+           id="rect25508-9-68-7-4-5-3"
+           width="3.4368625"
+           height="32.577633"
+           x="977.31689"
+           y="3836.3462"
+           rx="0"
+           ry="0.00010498778"
+           inkscape:export-filename="C:\Users\Casper\Desktop\Yeni klasör (5)\6.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <rect
+           style="opacity:0.475;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.81199998;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke;filter:url(#filter26069-39-7-3-6-0)"
+           id="rect25508-8-93-6-8-9-43"
+           width="3.4368625"
+           height="32.577633"
+           x="984.77881"
+           y="3836.3469"
+           rx="0"
+           ry="0.00010498778"
+           inkscape:export-filename="C:\Users\Casper\Desktop\Yeni klasör (5)\6.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <rect
+           style="opacity:1;fill:#3778da;fill-opacity:1;stroke:none;stroke-width:1.71181464;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+           id="rect25508-9-0-00-7-3-6-73"
+           width="3.4368625"
+           height="32.577633"
+           x="984.77881"
+           y="3836.3462"
+           rx="0"
+           ry="0.00010498778"
+           inkscape:export-filename="C:\Users\Casper\Desktop\Yeni klasör (5)\6.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <rect
+           style="opacity:0.475;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.81199998;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke;filter:url(#filter26073-62-83-6-9-3)"
+           id="rect25508-6-42-1-2-6-0"
+           width="3.4368625"
+           height="32.577633"
+           x="992.79004"
+           y="3836.3469"
+           rx="0"
+           ry="0.00010498778"
+           inkscape:export-filename="C:\Users\Casper\Desktop\Yeni klasör (5)\6.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <rect
+           style="opacity:1;fill:#3778da;fill-opacity:1;stroke:none;stroke-width:1.71181464;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+           id="rect25508-9-8-53-5-9-3-0"
+           width="3.4368625"
+           height="32.577633"
+           x="992.79004"
+           y="3836.3462"
+           rx="0"
+           ry="0.00010498778"
+           inkscape:export-filename="C:\Users\Casper\Desktop\Yeni klasör (5)\6.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <rect
+           style="opacity:0.475;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.81199998;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke;filter:url(#filter26077-02-6-8-7-3)"
+           id="rect25508-24-46-2-2-5-0"
+           width="3.4368625"
+           height="32.577633"
+           x="1000.54"
+           y="3836.3469"
+           rx="0"
+           ry="0.00010498778"
+           inkscape:export-filename="C:\Users\Casper\Desktop\Yeni klasör (5)\6.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <rect
+           style="opacity:1;fill:#3778da;fill-opacity:1;stroke:none;stroke-width:1.71181464;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+           id="rect25508-9-4-82-5-4-4-1"
+           width="3.4368625"
+           height="32.577633"
+           x="1000.54"
+           y="3836.3462"
+           rx="0"
+           ry="0.00010498778"
+           inkscape:export-filename="C:\Users\Casper\Desktop\Yeni klasör (5)\6.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+      </g>
+      <g
+         transform="matrix(0.63379209,0,0,0.63385509,385.51913,1443.5353)"
+         id="g5897-3">
+        <rect
+           style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.28912449;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke;filter:url(#filter25083-0-3-0-5-9)"
+           id="rect25040-2-1-03-2-2"
+           width="32.577541"
+           height="32.577541"
+           x="1073.8661"
+           y="3782.3298"
+           rx="0.88105738"
+           ry="0.70037252"
+           inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\UI_Icon_Card_Blue.png"
+           inkscape:export-xdpi="92.681221"
+           inkscape:export-ydpi="92.681221"
+           transform="matrix(1.4481253,0,0,1.4479806,-504.43301,-1634.5154)" />
+        <rect
+           style="opacity:1;fill:#202f8a;fill-opacity:1;stroke:none;stroke-width:1.86672044;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+           id="rect25040-8-9-3-0-3-4"
+           width="47.176369"
+           height="47.17165"
+           x="1050.6598"
+           y="3842.2246"
+           rx="1.2758815"
+           ry="1.0141257"
+           inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\UI_Icon_Card_Blue.png"
+           inkscape:export-xdpi="92.681221"
+           inkscape:export-ydpi="92.681221" />
+      </g>
+      <text
+         transform="scale(1.0001909,0.99980913)"
+         id="text5780-3-1"
+         y="3903.0076"
+         x="1058.4432"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24.48342705px;line-height:1.25;font-family:Exo;-inkscape-font-specification:Exo;letter-spacing:0px;word-spacing:0px;fill:#d45500;fill-opacity:1;stroke:none;stroke-width:0.6120857"
+         xml:space="preserve"><tspan
+           style="fill:#d45500;stroke-width:0.6120857"
+           y="3903.0076"
+           x="1058.4432"
+           id="tspan5778-2-0"
+           sodipodi:role="line">5</tspan></text>
+      <g
+         transform="matrix(0.83135089,-0.38883028,0.38800907,0.82959505,-1255.8149,1079.247)"
+         id="g6011-8">
+        <rect
+           inkscape:export-ydpi="96"
+           inkscape:export-xdpi="96"
+           inkscape:export-filename="C:\Users\Casper\Desktop\Yeni klasör (5)\6.png"
+           ry="0.70037252"
+           rx="0.88105738"
+           y="3836.3469"
+           x="974.4751"
+           height="32.577541"
+           width="32.577541"
+           id="rect25040-1-79-7-6-1-1"
+           style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.28912449;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke;filter:url(#filter25083-13-3-9-5-1-6)" />
+        <rect
+           inkscape:export-ydpi="96"
+           inkscape:export-xdpi="96"
+           inkscape:export-filename="C:\Users\Casper\Desktop\Yeni klasör (5)\6.png"
+           ry="0.70037252"
+           rx="0.88105738"
+           y="3836.3462"
+           x="974.4751"
+           height="32.577545"
+           width="32.577545"
+           id="rect25040-8-94-9-3-7-7-2"
+           style="opacity:1;fill:#202f8a;fill-opacity:1;stroke:none;stroke-width:1.28912449;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" />
+        <rect
+           inkscape:export-ydpi="96"
+           inkscape:export-xdpi="96"
+           inkscape:export-filename="C:\Users\Casper\Desktop\Yeni klasör (5)\6.png"
+           ry="0.00010498778"
+           rx="0"
+           y="3836.3469"
+           x="977.31689"
+           height="32.577633"
+           width="3.4368625"
+           id="rect25508-13-0-4-7-4-2"
+           style="opacity:0.475;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.81199998;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke;filter:url(#filter26065-67-8-0-2-4-3)" />
+        <rect
+           inkscape:export-ydpi="96"
+           inkscape:export-xdpi="96"
+           inkscape:export-filename="C:\Users\Casper\Desktop\Yeni klasör (5)\6.png"
+           ry="0.00010498778"
+           rx="0"
+           y="3836.3462"
+           x="984.77881"
+           height="32.577633"
+           width="3.4368625"
+           id="rect25508-1-64-0-2-4-4-0"
+           style="opacity:1;fill:#c83737;fill-opacity:1;stroke:none;stroke-width:1.71181464;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" />
+        <rect
+           inkscape:export-ydpi="96"
+           inkscape:export-xdpi="96"
+           inkscape:export-filename="C:\Users\Casper\Desktop\Yeni klasör (5)\6.png"
+           ry="0.00010498778"
+           rx="0"
+           y="3836.3462"
+           x="992.79004"
+           height="32.577633"
+           width="3.4368625"
+           id="rect25508-2-7-9-4-9-0-0"
+           style="opacity:1;fill:#c83737;fill-opacity:1;stroke:none;stroke-width:1.71181464;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" />
+        <rect
+           inkscape:export-ydpi="96"
+           inkscape:export-xdpi="96"
+           inkscape:export-filename="C:\Users\Casper\Desktop\Yeni klasör (5)\6.png"
+           ry="0.00010498778"
+           rx="0"
+           y="3836.3462"
+           x="1000.54"
+           height="32.577633"
+           width="3.4368625"
+           id="rect25508-5-82-2-5-8-5-5"
+           style="opacity:1;fill:#c83737;fill-opacity:1;stroke:none;stroke-width:1.71181464;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" />
+        <rect
+           inkscape:export-ydpi="96"
+           inkscape:export-xdpi="96"
+           inkscape:export-filename="C:\Users\Casper\Desktop\Yeni klasör (5)\6.png"
+           ry="0.00010498778"
+           rx="0"
+           y="3836.3462"
+           x="977.31689"
+           height="32.577633"
+           width="3.4368625"
+           id="rect25508-9-68-7-4-5-0-6"
+           style="opacity:1;fill:#3778da;fill-opacity:1;stroke:none;stroke-width:1.71181464;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" />
+        <rect
+           inkscape:export-ydpi="96"
+           inkscape:export-xdpi="96"
+           inkscape:export-filename="C:\Users\Casper\Desktop\Yeni klasör (5)\6.png"
+           ry="0.00010498778"
+           rx="0"
+           y="3836.3469"
+           x="984.77881"
+           height="32.577633"
+           width="3.4368625"
+           id="rect25508-8-93-6-8-9-4-2"
+           style="opacity:0.475;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.81199998;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke;filter:url(#filter26069-39-7-3-6-4-1)" />
+        <rect
+           inkscape:export-ydpi="96"
+           inkscape:export-xdpi="96"
+           inkscape:export-filename="C:\Users\Casper\Desktop\Yeni klasör (5)\6.png"
+           ry="0.00010498778"
+           rx="0"
+           y="3836.3462"
+           x="984.77881"
+           height="32.577633"
+           width="3.4368625"
+           id="rect25508-9-0-00-7-3-6-7-1"
+           style="opacity:1;fill:#3778da;fill-opacity:1;stroke:none;stroke-width:1.71181464;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" />
+        <rect
+           inkscape:export-ydpi="96"
+           inkscape:export-xdpi="96"
+           inkscape:export-filename="C:\Users\Casper\Desktop\Yeni klasör (5)\6.png"
+           ry="0.00010498778"
+           rx="0"
+           y="3836.3469"
+           x="992.79004"
+           height="32.577633"
+           width="3.4368625"
+           id="rect25508-6-42-1-2-6-2-5"
+           style="opacity:0.475;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.81199998;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke;filter:url(#filter26073-62-83-6-9-9-7)" />
+        <rect
+           inkscape:export-ydpi="96"
+           inkscape:export-xdpi="96"
+           inkscape:export-filename="C:\Users\Casper\Desktop\Yeni klasör (5)\6.png"
+           ry="0.00010498778"
+           rx="0"
+           y="3836.3462"
+           x="992.79004"
+           height="32.577633"
+           width="3.4368625"
+           id="rect25508-9-8-53-5-9-3-8-4"
+           style="opacity:1;fill:#3778da;fill-opacity:1;stroke:none;stroke-width:1.71181464;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" />
+        <rect
+           inkscape:export-ydpi="96"
+           inkscape:export-xdpi="96"
+           inkscape:export-filename="C:\Users\Casper\Desktop\Yeni klasör (5)\6.png"
+           ry="0.00010498778"
+           rx="0"
+           y="3836.3469"
+           x="1000.54"
+           height="32.577633"
+           width="3.4368625"
+           id="rect25508-24-46-2-2-5-9-1"
+           style="opacity:0.475;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.81199998;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke;filter:url(#filter26077-02-6-8-7-9-3)" />
+        <rect
+           inkscape:export-ydpi="96"
+           inkscape:export-xdpi="96"
+           inkscape:export-filename="C:\Users\Casper\Desktop\Yeni klasör (5)\6.png"
+           ry="0.00010498778"
+           rx="0"
+           y="3836.3462"
+           x="1000.54"
+           height="32.577633"
+           width="3.4368625"
+           id="rect25508-9-4-82-5-4-4-0-3"
+           style="opacity:1;fill:#3778da;fill-opacity:1;stroke:none;stroke-width:1.71181464;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" />
+      </g>
+      <g
+         transform="matrix(0.5442539,0.32477701,-0.32480929,0.544308,1734.2458,1438.8199)"
+         id="g5897-4">
+        <rect
+           style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.28912449;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke;filter:url(#filter25083-0-3-0-5-8)"
+           id="rect25040-2-1-03-2-4"
+           width="32.577541"
+           height="32.577541"
+           x="1073.8661"
+           y="3782.3298"
+           rx="0.88105738"
+           ry="0.70037252"
+           inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\UI_Icon_Card_Blue.png"
+           inkscape:export-xdpi="92.681221"
+           inkscape:export-ydpi="92.681221"
+           transform="matrix(1.4481253,0,0,1.4479806,-504.43301,-1634.5154)" />
+        <rect
+           style="opacity:1;fill:#202f8a;fill-opacity:1;stroke:none;stroke-width:1.86672044;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+           id="rect25040-8-9-3-0-3-5"
+           width="47.176369"
+           height="47.17165"
+           x="1050.6598"
+           y="3842.2246"
+           rx="1.2758815"
+           ry="1.0141257"
+           inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\UI_Icon_Card_Blue.png"
+           inkscape:export-xdpi="92.681221"
+           inkscape:export-ydpi="92.681221" />
+      </g>
+      <text
+         transform="matrix(0.85889018,0.51253244,-0.51233681,0.85856234,0,0)"
+         id="text5780-3-19"
+         y="2806.1279"
+         x="2900.2197"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24.48342705px;line-height:1.25;font-family:Exo;-inkscape-font-specification:Exo;letter-spacing:0px;word-spacing:0px;fill:#d45500;fill-opacity:1;stroke:none;stroke-width:0.6120857"
+         xml:space="preserve"><tspan
+           style="fill:#d45500;stroke-width:0.6120857"
+           y="2806.1279"
+           x="2900.2197"
+           id="tspan5778-2-6"
+           sodipodi:role="line">2</tspan></text>
+    </g>
   </g>
 </svg>
