@@ -563,17 +563,17 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2"
-     inkscape:cx="344.05409"
-     inkscape:cy="537.92479"
+     inkscape:cx="452.86778"
+     inkscape:cy="506.70787"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer85"
+     inkscape:current-layer="g9544-0-4"
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:window-width="1366"
      inkscape:window-height="705"
      inkscape:window-x="-8"
-     inkscape:window-y="304"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata9607">
@@ -583,7 +583,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -591,7 +591,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     style="display:none;opacity:1">
+     style="display:inline;opacity:1">
     <path
        style="display:inline;fill:#030303;fill-opacity:0.72375692;stroke:#000000;stroke-width:0.26499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 66.764279,140.30134 c 0,0 21.944001,-24.034 45.281401,0 -24.5067,-13.976 -45.281401,0 -45.281401,0 z"
@@ -635,6 +635,69 @@
        id="path12137-7"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="csssssssccccccccccccccccc" />
+    <g
+       style="display:inline;opacity:1"
+       id="g9544-0-3"
+       transform="matrix(0.80172414,0,0,0.80172414,-845.76838,-1921.0716)"
+       inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\Animations\eyes\eyes_2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <circle
+         r="7.1426539"
+         cy="2584.127"
+         cx="1222.256"
+         id="path9538-6-93"
+         style="opacity:0.694;fill:#9b4306;fill-opacity:1;stroke:none;stroke-width:3.04146338;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" />
+      <circle
+         r="3.2018793"
+         cy="2583.3242"
+         cx="1222.1525"
+         id="path9540-4-0"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.2249999;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" />
+    </g>
+    <g
+       style="display:inline;opacity:1"
+       id="g9544-0-4"
+       transform="matrix(0.80172414,0,0,0.80172414,-825.66004,-1913.134)"
+       inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\Animations\eyes\eyes_3.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <circle
+         r="7.1426539"
+         cy="2584.127"
+         cx="1222.256"
+         id="path9538-6-98"
+         style="opacity:0.694;fill:#9b4306;fill-opacity:1;stroke:none;stroke-width:3.04146338;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+         inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\Animations\eyes\eyes_6.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <circle
+         r="3.2018793"
+         cy="2580.6841"
+         cx="1235.8483"
+         id="path9540-4-2"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.2249999;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+         inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\Animations\eyes\eyes_7.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+    </g>
+    <path
+       style="display:inline;opacity:1;fill:#030303;fill-opacity:0.72375692;stroke:#000000;stroke-width:0.26499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 86.236736,169.49379 c 0,0 21.944004,-24.034 45.281404,0 -24.5067,-13.976 -45.281404,0 -45.281404,0 z"
+       id="path8803-5-28"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\Animations\eyes\eyes_5.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="display:inline;opacity:1;fill:#fffbfb;fill-opacity:0.72375692;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 88.742047,188.54442 c 1.733001,-1.6847 3.532101,-3.2379 5.422201,-4.5877 1.8901,-1.3498 3.871201,-2.4962 5.968202,-3.3671 2.0969,-0.871 4.3097,-1.4665 6.6633,-1.7147 2.3535,-0.2481 4.8477,-0.1489 7.5075,0.3698 1.2469,0.2583 2.5241,0.6243 3.828,1.114 1.3038,0.4898 2.6344,1.1033 3.9881,1.8567 1.3537,0.7535 2.7305,1.6469 4.1267,2.6963 1.3963,1.0495 2.812,2.255 4.2436,3.6327 -1.6164,1.4393 -3.1937,2.6987 -4.7307,3.7951 -1.537,1.0963 -3.0335,2.0297 -4.4882,2.8168 -2.9094,1.5742 -5.6514,2.5638 -8.2144,3.10349 -5.1261,1.0795 -9.5364,0.35981 -13.138501,-1.07949 -3.602101,-1.4393 -6.396101,-3.5983 -8.289501,-5.3974 -1.893401,-1.7991 -2.886301,-3.2385 -2.886301,-3.2385 z"
+       id="path9536-3-8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cssscssscsssssc"
+       inkscape:export-filename="C:\Users\Casper\Documents\GitHub\GameFilesCommon\KartOyunu\UI Sprites\Animations\eyes\eyes_4.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -5010,7 +5073,8 @@
   <g
      inkscape:groupmode="layer"
      id="layer85"
-     inkscape:label="Layer 82">
+     inkscape:label="Layer 82"
+     style="display:none">
     <path
        style="display:inline;opacity:1;fill:none;fill-opacity:0.72375692;stroke:#000000;stroke-width:0.26499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter12204-9-4-6-7-4-2-5-7-3-2-3-7-8-3-2-3-2-5-9-8-4-1-5-5-1-6-9-3-3-9-6-04-6-1-6)"
        d="m 66.764291,140.30134 c 0,0 21.94401,-24.03401 45.281419,0 -24.506719,-13.97599 -45.281419,0 -45.281419,0 z"
