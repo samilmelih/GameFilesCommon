@@ -4420,6 +4420,19 @@
        r="153.33855"
        gradientTransform="matrix(0.45829252,0,0,0.22243607,1351.9437,3918.4418)"
        gradientUnits="userSpaceOnUse" />
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter16599"
+       x="-0.020928411"
+       width="1.0418568"
+       y="-0.23248263"
+       height="1.4649653">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.23538406"
+         id="feGaussianBlur16601" />
+    </filter>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -4428,9 +4441,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35957031"
-     inkscape:cx="2703.7672"
-     inkscape:cy="-34.044081"
+     inkscape:zoom="0.50850921"
+     inkscape:cx="639.11464"
+     inkscape:cy="584.05116"
      inkscape:document-units="mm"
      inkscape:current-layer="g7278-3-0-8"
      showgrid="false"
@@ -14924,6 +14937,34 @@
            x="524.33228"
            y="4033.3352"
            style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:9.1328125px;line-height:1.25;font-family:Exo;-inkscape-font-specification:'Exo Medium';stroke-width:0.08562011;fill:#e3dedb;">E</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.59059px;line-height:1.25;font-family:Exo;-inkscape-font-specification:Exo;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#100000;stroke-width:0.27000967;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter16599)"
+         x="1240.4427"
+         y="3903.1226"
+         id="text16491"
+         transform="matrix(1.0025408,0,0,0.99746564,2.2260169,-0.06711358)"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96"><tspan
+           sodipodi:role="line"
+           id="tspan16489"
+           x="1240.4427"
+           y="3903.1226"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.06039357px;font-family:Exo;-inkscape-font-specification:'Exo Bold';stroke:#100000;stroke-width:0.27000967;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">100ms Game Studio</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58455658px;line-height:1.25;font-family:Exo;-inkscape-font-specification:Exo;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.11461391"
+         x="1242.6921"
+         y="3903.0869"
+         id="text16491-5"
+         transform="scale(1.0025408,0.99746564)"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96"><tspan
+           sodipodi:role="line"
+           id="tspan16489-5"
+           x="1242.6921"
+           y="3903.0869"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.05637121px;font-family:Exo;-inkscape-font-specification:'Exo Bold';fill:#ffffff;stroke-width:0.11461391">100ms Game Studio</tspan></text>
     </g>
     <rect
        style="opacity:1;fill:none;fill-opacity:1;stroke:#100000;stroke-width:7.61272478;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
